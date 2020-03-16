@@ -1,0 +1,19 @@
+[
+Bil 4 {
+Make: Buick
+Model: Century Custom 4dr
+Horsepower: 175
+Mpg: 20 }
+, 
+Bil 5 {
+Make: Chevrolet
+Model: Aveo 4dr
+Horsepower: 103
+Mpg: 28 }
+, 
+Bil 7 {
+Make: Volkswagen
+Model: New Beetle GLS convertible 2dr
+Horsepower: 115
+Mpg: 24 }
+]

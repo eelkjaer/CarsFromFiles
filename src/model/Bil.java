@@ -52,6 +52,6 @@ public class Bil {
 
     @Override
     public String toString() {
-        return "\nBil " + carid + "\nMake: " + carMake + "\nModel: " + carModel + "\nHorsepower: " + carHp + "\nMpg: " + carMpg + "]\n";
+        return "\nBil " + carid + " {\nMake: " + carMake + "\nModel: " + carModel + "\nHorsepower: " + carHp + "\nMpg: " + carMpg + " }\n";
     }
 }
