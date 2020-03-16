@@ -7,6 +7,7 @@ import java.util.ArrayList;
 
 public class ExportCarsToFile {
     public int exportCarsToFile(String fileName, int filter, Garage garage){
+        int numbersExported = 0;
         ArrayList<Bil> tmpArray = new ArrayList<>();
         String content = "";
 
@@ -14,6 +15,7 @@ public class ExportCarsToFile {
             for(Bil b:garage.garage){
                 if(b.carMake.contains("Volvo")){
                     tmpArray.add(b);
+                    numbersExported++;
                 }
             }
             content += tmpArray.toString();
@@ -21,6 +23,7 @@ public class ExportCarsToFile {
             for(Bil b:garage.garage){
                 if(b.carMpg >= 20){
                     tmpArray.add(b);
+                    numbersExported++;
                 }
             }
             content += tmpArray.toString();
@@ -28,11 +31,13 @@ public class ExportCarsToFile {
             for(Bil b:garage.garage){
                 if(b.carMpg >= 20 && b.carHp<200){
                     tmpArray.add(b);
+                    numbersExported++;
                 }
             }
             content += tmpArray.toString();
         } else {
             tmpArray.addAll(garage.garage);
+            numbersExported = tmpArray.size();
             content += tmpArray.toString();
         }
 
@@ -46,6 +51,6 @@ public class ExportCarsToFile {
             System.err.format("IOException: %s%n", e);
         }
 
-        return 0;
+        return numbersExported;
     }
 }

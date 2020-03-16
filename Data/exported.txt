@@ -1,4 +1,28 @@
 [
+Bil 0 {
+Make: Acura
+Model: MDX
+Horsepower: 265
+Mpg: 17 }
+, 
+Bil 1 {
+Make: Audi
+Model: A4 3.0 4dr
+Horsepower: 220
+Mpg: 20 }
+, 
+Bil 2 {
+Make: BMW
+Model: 530i 4dr
+Horsepower: 225
+Mpg: 20 }
+, 
+Bil 3 {
+Make: Buick
+Model: Rendezvous CX
+Horsepower: 185
+Mpg: 19 }
+, 
 Bil 4 {
 Make: Buick
 Model: Century Custom 4dr
@@ -11,9 +35,33 @@ Model: Aveo 4dr
 Horsepower: 103
 Mpg: 28 }
 , 
+Bil 6 {
+Make: Volkswagen
+Model: Jetta GLI VR6 4dr
+Horsepower: 200
+Mpg: 21 }
+, 
 Bil 7 {
 Make: Volkswagen
 Model: New Beetle GLS convertible 2dr
 Horsepower: 115
 Mpg: 24 }
+, 
+Bil 8 {
+Make: Volvo
+Model: S60 2.5 4dr
+Horsepower: 208
+Mpg: 20 }
+, 
+Bil 9 {
+Make: Volvo
+Model: S60 T5 4dr
+Horsepower: 247
+Mpg: 20 }
+, 
+Bil 10 {
+Make: Volvo
+Model: S60 R 4dr
+Horsepower: 300
+Mpg: 18 }
 ]
