@@ -1,0 +1,35 @@
+Automobile ID,0
+Fuel ID,1
+Fuel Configuration ID,2
+Manufacturer ID,3
+Weight Class ID,4
+Category ID,5
+Model,6
+Model Year,7
+City Range,8
+Highway Range,9
+City Fuel Economy,10
+City Fuel Economy Units,11
+Highway Fuel Economy,12
+Highway Fuel Economy Units,13
+City Gas Fuel Economy,14
+Highway Gas Fuel Economy,15
+Transmission Type,16
+Engine Type,17
+Engine Size,18
+Engine Cylinder Count,19
+Engine Description,20
+Battery Type,21
+Battery Voltage Amps,22
+110v Charge Time,23
+220v Charge Time,24
+Warranty Info,25
+Ordering Info,26
+Description,27
+Comments,28
+Manufacturer,29
+Manufacturer URL,30
+Fuel Code,31
+Fuel,32
+Category,33
+Fuel Configuration Name,34
