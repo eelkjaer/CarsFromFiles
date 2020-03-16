@@ -1,5 +1,6 @@
 [
-Bil 0 {
+Bil 0
+Garage: 0 {
 Make: Acura
 Model: MDX
 Year: 2019
@@ -13,7 +14,8 @@ Mpg(City): 17
 Mpg (Highway): 23
 Average Mpg: 20 }
 , 
-Bil 1 {
+Bil 1
+Garage: 0 {
 Make: Acura
 Model: RSX Type S 2dr
 Year: 2020
@@ -27,7 +29,8 @@ Mpg(City): 24
 Mpg (Highway): 31
 Average Mpg: 27 }
 , 
-Bil 2 {
+Bil 2
+Garage: 0 {
 Make: Acura
 Model: TSX 4dr
 Year: 2018
@@ -41,7 +44,8 @@ Mpg(City): 22
 Mpg (Highway): 29
 Average Mpg: 25 }
 , 
-Bil 3 {
+Bil 3
+Garage: 0 {
 Make: Acura
 Model: TL 4dr
 Year: 2011
@@ -55,7 +59,8 @@ Mpg(City): 20
 Mpg (Highway): 28
 Average Mpg: 24 }
 , 
-Bil 4 {
+Bil 4
+Garage: 0 {
 Make: Acura
 Model: 3.5 RL 4dr
 Year: 2012
@@ -69,7 +74,8 @@ Mpg(City): 18
 Mpg (Highway): 24
 Average Mpg: 21 }
 , 
-Bil 5 {
+Bil 5
+Garage: 0 {
 Make: Acura
 Model: 3.5 RL w/Navigation 4dr
 Year: 2013
@@ -83,7 +89,8 @@ Mpg(City): 18
 Mpg (Highway): 24
 Average Mpg: 21 }
 , 
-Bil 6 {
+Bil 6
+Garage: 0 {
 Make: Acura
 Model: NSX coupe 2dr manual S
 Year: 2014
@@ -97,7 +104,8 @@ Mpg(City): 17
 Mpg (Highway): 24
 Average Mpg: 20 }
 , 
-Bil 7 {
+Bil 7
+Garage: 0 {
 Make: Audi
 Model: A4 1.8T 4dr
 Year: 2015
@@ -111,7 +119,8 @@ Mpg(City): 22
 Mpg (Highway): 31
 Average Mpg: 26 }
 , 
-Bil 8 {
+Bil 8
+Garage: 0 {
 Make: Audi
 Model: A41.8T convertible 2dr
 Year: 2016
@@ -125,7 +134,8 @@ Mpg(City): 23
 Mpg (Highway): 30
 Average Mpg: 26 }
 , 
-Bil 9 {
+Bil 9
+Garage: 0 {
 Make: Audi
 Model: A4 3.0 4dr
 Year: 2017
@@ -139,7 +149,8 @@ Mpg(City): 20
 Mpg (Highway): 28
 Average Mpg: 24 }
 , 
-Bil 10 {
+Bil 10
+Garage: 0 {
 Make: Audi
 Model: A4 3.0 Quattro 4dr manual
 Year: 2018
@@ -153,7 +164,8 @@ Mpg(City): 17
 Mpg (Highway): 26
 Average Mpg: 21 }
 , 
-Bil 11 {
+Bil 11
+Garage: 0 {
 Make: Audi
 Model: A4 3.0 Quattro 4dr auto
 Year: 2019
@@ -167,7 +179,8 @@ Mpg(City): 18
 Mpg (Highway): 25
 Average Mpg: 21 }
 , 
-Bil 12 {
+Bil 12
+Garage: 0 {
 Make: Audi
 Model: A6 3.0 4dr
 Year: 2020
@@ -181,7 +194,8 @@ Mpg(City): 20
 Mpg (Highway): 27
 Average Mpg: 23 }
 , 
-Bil 13 {
+Bil 13
+Garage: 0 {
 Make: Audi
 Model: A6 3.0 Quattro 4dr
 Year: 2018
@@ -195,7 +209,8 @@ Mpg(City): 18
 Mpg (Highway): 25
 Average Mpg: 21 }
 , 
-Bil 14 {
+Bil 14
+Garage: 0 {
 Make: Audi
 Model: A4 3.0 convertible 2dr
 Year: 2011
@@ -209,7 +224,8 @@ Mpg(City): 20
 Mpg (Highway): 27
 Average Mpg: 23 }
 , 
-Bil 15 {
+Bil 15
+Garage: 0 {
 Make: Audi
 Model: A4 3.0 Quattro convertible 2dr
 Year: 2012
@@ -223,7 +239,8 @@ Mpg(City): 18
 Mpg (Highway): 25
 Average Mpg: 21 }
 , 
-Bil 16 {
+Bil 16
+Garage: 0 {
 Make: Audi
 Model: A6 2.7 Turbo Quattro 4dr
 Year: 2013
@@ -237,7 +254,8 @@ Mpg(City): 18
 Mpg (Highway): 25
 Average Mpg: 21 }
 , 
-Bil 17 {
+Bil 17
+Garage: 0 {
 Make: Audi
 Model: A6 4.2 Quattro 4dr
 Year: 2014
@@ -251,7 +269,8 @@ Mpg(City): 17
 Mpg (Highway): 24
 Average Mpg: 20 }
 , 
-Bil 18 {
+Bil 18
+Garage: 0 {
 Make: Audi
 Model: A8 L Quattro 4dr
 Year: 2015
@@ -265,7 +284,8 @@ Mpg(City): 17
 Mpg (Highway): 24
 Average Mpg: 20 }
 , 
-Bil 21 {
+Bil 21
+Garage: 0 {
 Make: Audi
 Model: TT 1.8 convertible 2dr (coupe)
 Year: 2018
@@ -279,7 +299,8 @@ Mpg(City): 20
 Mpg (Highway): 28
 Average Mpg: 24 }
 , 
-Bil 22 {
+Bil 22
+Garage: 0 {
 Make: Audi
 Model: TT 1.8 Quattro 2dr (convertible)
 Year: 2019
@@ -293,7 +314,8 @@ Mpg(City): 20
 Mpg (Highway): 28
 Average Mpg: 24 }
 , 
-Bil 23 {
+Bil 23
+Garage: 0 {
 Make: Audi
 Model: TT 3.2 coupe 2dr (convertible)
 Year: 2020
@@ -307,7 +329,8 @@ Mpg(City): 21
 Mpg (Highway): 29
 Average Mpg: 25 }
 , 
-Bil 24 {
+Bil 24
+Garage: 0 {
 Make: Audi
 Model: A6 3.0 Avant Quattro
 Year: 2018
@@ -321,7 +344,8 @@ Mpg(City): 18
 Mpg (Highway): 25
 Average Mpg: 21 }
 , 
-Bil 28 {
+Bil 28
+Garage: 0 {
 Make: BMW
 Model: 325i 4dr
 Year: 2014
@@ -335,7 +359,8 @@ Mpg(City): 20
 Mpg (Highway): 29
 Average Mpg: 24 }
 , 
-Bil 29 {
+Bil 29
+Garage: 0 {
 Make: BMW
 Model: 325Ci 2dr
 Year: 2015
@@ -349,7 +374,8 @@ Mpg(City): 20
 Mpg (Highway): 29
 Average Mpg: 24 }
 , 
-Bil 30 {
+Bil 30
+Garage: 0 {
 Make: BMW
 Model: 325Ci convertible 2dr
 Year: 2016
@@ -363,7 +389,8 @@ Mpg(City): 19
 Mpg (Highway): 27
 Average Mpg: 23 }
 , 
-Bil 31 {
+Bil 31
+Garage: 0 {
 Make: BMW
 Model: 325xi 4dr
 Year: 2017
@@ -377,7 +404,8 @@ Mpg(City): 19
 Mpg (Highway): 27
 Average Mpg: 23 }
 , 
-Bil 32 {
+Bil 32
+Garage: 0 {
 Make: BMW
 Model: 330i 4dr
 Year: 2018
@@ -391,7 +419,8 @@ Mpg(City): 20
 Mpg (Highway): 30
 Average Mpg: 25 }
 , 
-Bil 33 {
+Bil 33
+Garage: 0 {
 Make: BMW
 Model: 330Ci 2dr
 Year: 2019
@@ -405,7 +434,8 @@ Mpg(City): 20
 Mpg (Highway): 30
 Average Mpg: 25 }
 , 
-Bil 34 {
+Bil 34
+Garage: 0 {
 Make: BMW
 Model: 330xi 4dr
 Year: 2020
@@ -419,7 +449,8 @@ Mpg(City): 20
 Mpg (Highway): 29
 Average Mpg: 24 }
 , 
-Bil 35 {
+Bil 35
+Garage: 0 {
 Make: BMW
 Model: 525i 4dr
 Year: 2018
@@ -433,7 +464,8 @@ Mpg(City): 19
 Mpg (Highway): 28
 Average Mpg: 23 }
 , 
-Bil 36 {
+Bil 36
+Garage: 0 {
 Make: BMW
 Model: 330Ci convertible 2dr
 Year: 2011
@@ -447,7 +479,8 @@ Mpg(City): 19
 Mpg (Highway): 28
 Average Mpg: 23 }
 , 
-Bil 37 {
+Bil 37
+Garage: 0 {
 Make: BMW
 Model: 530i 4dr
 Year: 2012
@@ -461,7 +494,8 @@ Mpg(City): 20
 Mpg (Highway): 30
 Average Mpg: 25 }
 , 
-Bil 38 {
+Bil 38
+Garage: 0 {
 Make: BMW
 Model: 545iA 4dr
 Year: 2013
@@ -475,7 +509,8 @@ Mpg(City): 18
 Mpg (Highway): 26
 Average Mpg: 22 }
 , 
-Bil 39 {
+Bil 39
+Garage: 0 {
 Make: BMW
 Model: 745i 4dr
 Year: 2014
@@ -489,7 +524,8 @@ Mpg(City): 18
 Mpg (Highway): 26
 Average Mpg: 22 }
 , 
-Bil 40 {
+Bil 40
+Garage: 0 {
 Make: BMW
 Model: 745Li 4dr
 Year: 2015
@@ -503,7 +539,8 @@ Mpg(City): 18
 Mpg (Highway): 26
 Average Mpg: 22 }
 , 
-Bil 41 {
+Bil 41
+Garage: 0 {
 Make: BMW
 Model: M3 coupe 2dr
 Year: 2016
@@ -517,7 +554,8 @@ Mpg(City): 16
 Mpg (Highway): 24
 Average Mpg: 20 }
 , 
-Bil 43 {
+Bil 43
+Garage: 0 {
 Make: BMW
 Model: Z4 convertible 2.5i 2dr
 Year: 2018
@@ -531,7 +569,8 @@ Mpg(City): 20
 Mpg (Highway): 28
 Average Mpg: 24 }
 , 
-Bil 44 {
+Bil 44
+Garage: 0 {
 Make: BMW
 Model: Z4 convertible 3.0i 2dr
 Year: 2019
@@ -545,7 +584,8 @@ Mpg(City): 21
 Mpg (Highway): 29
 Average Mpg: 25 }
 , 
-Bil 45 {
+Bil 45
+Garage: 0 {
 Make: BMW
 Model: 325xi Sport
 Year: 2020
@@ -559,7 +599,8 @@ Mpg(City): 19
 Mpg (Highway): 26
 Average Mpg: 22 }
 , 
-Bil 47 {
+Bil 47
+Garage: 0 {
 Make: Buick
 Model: Rendezvous CX
 Year: 2011
@@ -573,7 +614,8 @@ Mpg(City): 19
 Mpg (Highway): 26
 Average Mpg: 22 }
 , 
-Bil 48 {
+Bil 48
+Garage: 0 {
 Make: Buick
 Model: Century Custom 4dr
 Year: 2012
@@ -587,7 +629,8 @@ Mpg(City): 20
 Mpg (Highway): 30
 Average Mpg: 25 }
 , 
-Bil 49 {
+Bil 49
+Garage: 0 {
 Make: Buick
 Model: LeSabre Custom 4dr
 Year: 2013
@@ -601,7 +644,8 @@ Mpg(City): 20
 Mpg (Highway): 29
 Average Mpg: 24 }
 , 
-Bil 50 {
+Bil 50
+Garage: 0 {
 Make: Buick
 Model: Regal LS 4dr
 Year: 2014
@@ -615,7 +659,8 @@ Mpg(City): 20
 Mpg (Highway): 30
 Average Mpg: 25 }
 , 
-Bil 51 {
+Bil 51
+Garage: 0 {
 Make: Buick
 Model: Regal GS 4dr
 Year: 2015
@@ -629,7 +674,8 @@ Mpg(City): 18
 Mpg (Highway): 28
 Average Mpg: 23 }
 , 
-Bil 52 {
+Bil 52
+Garage: 0 {
 Make: Buick
 Model: LeSabre Limited 4dr
 Year: 2016
@@ -643,7 +689,8 @@ Mpg(City): 20
 Mpg (Highway): 29
 Average Mpg: 24 }
 , 
-Bil 53 {
+Bil 53
+Garage: 0 {
 Make: Buick
 Model: Park Avenue 4dr
 Year: 2017
@@ -657,7 +704,8 @@ Mpg(City): 20
 Mpg (Highway): 29
 Average Mpg: 24 }
 , 
-Bil 54 {
+Bil 54
+Garage: 0 {
 Make: Buick
 Model: Park Avenue Ultra 4dr
 Year: 2018
@@ -671,7 +719,8 @@ Mpg(City): 18
 Mpg (Highway): 28
 Average Mpg: 23 }
 , 
-Bil 57 {
+Bil 57
+Garage: 0 {
 Make: Cadillac
 Model: CTS VVT 4dr
 Year: 2018
@@ -685,7 +734,8 @@ Mpg(City): 18
 Mpg (Highway): 25
 Average Mpg: 21 }
 , 
-Bil 58 {
+Bil 58
+Garage: 0 {
 Make: Cadillac
 Model: Deville 4dr
 Year: 2011
@@ -699,7 +749,8 @@ Mpg(City): 18
 Mpg (Highway): 26
 Average Mpg: 22 }
 , 
-Bil 59 {
+Bil 59
+Garage: 0 {
 Make: Cadillac
 Model: Deville DTS 4dr
 Year: 2012
@@ -713,7 +764,8 @@ Mpg(City): 18
 Mpg (Highway): 26
 Average Mpg: 22 }
 , 
-Bil 60 {
+Bil 60
+Garage: 0 {
 Make: Cadillac
 Model: Seville SLS 4dr
 Year: 2013
@@ -727,7 +779,8 @@ Mpg(City): 18
 Mpg (Highway): 26
 Average Mpg: 22 }
 , 
-Bil 61 {
+Bil 61
+Garage: 0 {
 Make: Cadillac
 Model: XLR convertible 2dr
 Year: 2014
@@ -741,7 +794,8 @@ Mpg(City): 17
 Mpg (Highway): 25
 Average Mpg: 21 }
 , 
-Bil 66 {
+Bil 66
+Garage: 0 {
 Make: Chevrolet
 Model: Tracker
 Year: 2019
@@ -755,7 +809,8 @@ Mpg(City): 19
 Mpg (Highway): 22
 Average Mpg: 20 }
 , 
-Bil 67 {
+Bil 67
+Garage: 0 {
 Make: Chevrolet
 Model: Aveo 4dr
 Year: 2020
@@ -769,7 +824,8 @@ Mpg(City): 28
 Mpg (Highway): 34
 Average Mpg: 31 }
 , 
-Bil 68 {
+Bil 68
+Garage: 0 {
 Make: Chevrolet
 Model: Aveo LS 4dr hatch
 Year: 2018
@@ -783,7 +839,8 @@ Mpg(City): 28
 Mpg (Highway): 34
 Average Mpg: 31 }
 , 
-Bil 69 {
+Bil 69
+Garage: 0 {
 Make: Chevrolet
 Model: Cavalier 2dr
 Year: 2011
@@ -797,7 +854,8 @@ Mpg(City): 26
 Mpg (Highway): 37
 Average Mpg: 31 }
 , 
-Bil 70 {
+Bil 70
+Garage: 0 {
 Make: Chevrolet
 Model: Cavalier 4dr
 Year: 2012
@@ -811,7 +869,8 @@ Mpg(City): 26
 Mpg (Highway): 37
 Average Mpg: 31 }
 , 
-Bil 71 {
+Bil 71
+Garage: 0 {
 Make: Chevrolet
 Model: Cavalier LS 2dr
 Year: 2013
@@ -825,7 +884,8 @@ Mpg(City): 26
 Mpg (Highway): 37
 Average Mpg: 31 }
 , 
-Bil 72 {
+Bil 72
+Garage: 0 {
 Make: Chevrolet
 Model: Impala 4dr
 Year: 2014
@@ -839,7 +899,8 @@ Mpg(City): 21
 Mpg (Highway): 32
 Average Mpg: 26 }
 , 
-Bil 73 {
+Bil 73
+Garage: 0 {
 Make: Chevrolet
 Model: Malibu 4dr
 Year: 2015
@@ -853,7 +914,8 @@ Mpg(City): 24
 Mpg (Highway): 34
 Average Mpg: 29 }
 , 
-Bil 74 {
+Bil 74
+Garage: 0 {
 Make: Chevrolet
 Model: Malibu LS 4dr
 Year: 2016
@@ -867,7 +929,8 @@ Mpg(City): 22
 Mpg (Highway): 30
 Average Mpg: 26 }
 , 
-Bil 75 {
+Bil 75
+Garage: 0 {
 Make: Chevrolet
 Model: Monte Carlo LS 2dr
 Year: 2017
@@ -881,7 +944,8 @@ Mpg(City): 21
 Mpg (Highway): 32
 Average Mpg: 26 }
 , 
-Bil 76 {
+Bil 76
+Garage: 0 {
 Make: Chevrolet
 Model: Impala LS 4dr
 Year: 2018
@@ -895,7 +959,8 @@ Mpg(City): 20
 Mpg (Highway): 30
 Average Mpg: 25 }
 , 
-Bil 77 {
+Bil 77
+Garage: 0 {
 Make: Chevrolet
 Model: Impala SS 4dr
 Year: 2019
@@ -909,7 +974,8 @@ Mpg(City): 18
 Mpg (Highway): 28
 Average Mpg: 23 }
 , 
-Bil 78 {
+Bil 78
+Garage: 0 {
 Make: Chevrolet
 Model: Malibu LT 4dr
 Year: 2020
@@ -923,7 +989,8 @@ Mpg(City): 23
 Mpg (Highway): 32
 Average Mpg: 27 }
 , 
-Bil 79 {
+Bil 79
+Garage: 0 {
 Make: Chevrolet
 Model: Monte Carlo SS 2dr
 Year: 2018
@@ -937,7 +1004,8 @@ Mpg(City): 18
 Mpg (Highway): 28
 Average Mpg: 23 }
 , 
-Bil 81 {
+Bil 81
+Garage: 0 {
 Make: Chevrolet
 Model: Venture LS
 Year: 2012
@@ -951,7 +1019,8 @@ Mpg(City): 19
 Mpg (Highway): 26
 Average Mpg: 22 }
 , 
-Bil 82 {
+Bil 82
+Garage: 0 {
 Make: Chevrolet
 Model: Corvette 2dr
 Year: 2013
@@ -965,7 +1034,8 @@ Mpg(City): 18
 Mpg (Highway): 25
 Average Mpg: 21 }
 , 
-Bil 83 {
+Bil 83
+Garage: 0 {
 Make: Chevrolet
 Model: Corvette convertible 2dr
 Year: 2014
@@ -979,7 +1049,8 @@ Mpg(City): 18
 Mpg (Highway): 25
 Average Mpg: 21 }
 , 
-Bil 85 {
+Bil 85
+Garage: 0 {
 Make: Chevrolet
 Model: Colorado Z85
 Year: 2016
@@ -993,7 +1064,8 @@ Mpg(City): 18
 Mpg (Highway): 23
 Average Mpg: 20 }
 , 
-Bil 89 {
+Bil 89
+Garage: 0 {
 Make: Chevrolet
 Model: Malibu Maxx LS
 Year: 2020
@@ -1007,7 +1079,8 @@ Mpg(City): 22
 Mpg (Highway): 30
 Average Mpg: 26 }
 , 
-Bil 90 {
+Bil 90
+Garage: 0 {
 Make: Chrysler
 Model: PT Cruiser 4dr
 Year: 2018
@@ -1021,7 +1094,8 @@ Mpg(City): 22
 Mpg (Highway): 29
 Average Mpg: 25 }
 , 
-Bil 91 {
+Bil 91
+Garage: 0 {
 Make: Chrysler
 Model: PT Cruiser Limited 4dr
 Year: 2011
@@ -1035,7 +1109,8 @@ Mpg(City): 22
 Mpg (Highway): 29
 Average Mpg: 25 }
 , 
-Bil 92 {
+Bil 92
+Garage: 0 {
 Make: Chrysler
 Model: Sebring 4dr
 Year: 2012
@@ -1049,7 +1124,8 @@ Mpg(City): 22
 Mpg (Highway): 30
 Average Mpg: 26 }
 , 
-Bil 93 {
+Bil 93
+Garage: 0 {
 Make: Chrysler
 Model: Sebring Touring 4dr
 Year: 2013
@@ -1063,7 +1139,8 @@ Mpg(City): 21
 Mpg (Highway): 28
 Average Mpg: 24 }
 , 
-Bil 94 {
+Bil 94
+Garage: 0 {
 Make: Chrysler
 Model: 300M 4dr
 Year: 2014
@@ -1077,7 +1154,8 @@ Mpg(City): 18
 Mpg (Highway): 27
 Average Mpg: 22 }
 , 
-Bil 95 {
+Bil 95
+Garage: 0 {
 Make: Chrysler
 Model: Concorde LX 4dr
 Year: 2015
@@ -1091,7 +1169,8 @@ Mpg(City): 21
 Mpg (Highway): 29
 Average Mpg: 25 }
 , 
-Bil 96 {
+Bil 96
+Garage: 0 {
 Make: Chrysler
 Model: Concorde LXi 4dr
 Year: 2016
@@ -1105,7 +1184,8 @@ Mpg(City): 19
 Mpg (Highway): 27
 Average Mpg: 23 }
 , 
-Bil 97 {
+Bil 97
+Garage: 0 {
 Make: Chrysler
 Model: PT Cruiser GT 4dr
 Year: 2017
@@ -1119,7 +1199,8 @@ Mpg(City): 21
 Mpg (Highway): 27
 Average Mpg: 24 }
 , 
-Bil 98 {
+Bil 98
+Garage: 0 {
 Make: Chrysler
 Model: Sebring convertible 2dr
 Year: 2018
@@ -1133,7 +1214,8 @@ Mpg(City): 22
 Mpg (Highway): 30
 Average Mpg: 26 }
 , 
-Bil 99 {
+Bil 99
+Garage: 0 {
 Make: Chrysler
 Model: 300M Special Edition 4dr
 Year: 2019
@@ -1147,7 +1229,8 @@ Mpg(City): 18
 Mpg (Highway): 27
 Average Mpg: 22 }
 , 
-Bil 100 {
+Bil 100
+Garage: 0 {
 Make: Chrysler
 Model: Sebring Limited convertible 2dr
 Year: 2020
@@ -1161,7 +1244,8 @@ Mpg(City): 21
 Mpg (Highway): 28
 Average Mpg: 24 }
 , 
-Bil 101 {
+Bil 101
+Garage: 0 {
 Make: Chrysler
 Model: Town and Country LX
 Year: 2018
@@ -1175,7 +1259,8 @@ Mpg(City): 19
 Mpg (Highway): 26
 Average Mpg: 22 }
 , 
-Bil 102 {
+Bil 102
+Garage: 0 {
 Make: Chrysler
 Model: Town and Country Limited
 Year: 2011
@@ -1189,7 +1274,8 @@ Mpg(City): 18
 Mpg (Highway): 25
 Average Mpg: 21 }
 , 
-Bil 103 {
+Bil 103
+Garage: 0 {
 Make: Chrysler
 Model: Crossfire 2dr
 Year: 2012
@@ -1203,7 +1289,8 @@ Mpg(City): 17
 Mpg (Highway): 25
 Average Mpg: 21 }
 , 
-Bil 104 {
+Bil 104
+Garage: 0 {
 Make: Chrysler
 Model: Pacifica
 Year: 2013
@@ -1217,7 +1304,8 @@ Mpg(City): 17
 Mpg (Highway): 23
 Average Mpg: 20 }
 , 
-Bil 106 {
+Bil 106
+Garage: 0 {
 Make: Dodge
 Model: Neon SE 4dr
 Year: 2015
@@ -1231,7 +1319,8 @@ Mpg(City): 29
 Mpg (Highway): 36
 Average Mpg: 32 }
 , 
-Bil 107 {
+Bil 107
+Garage: 0 {
 Make: Dodge
 Model: Neon SXT 4dr
 Year: 2016
@@ -1245,7 +1334,8 @@ Mpg(City): 29
 Mpg (Highway): 36
 Average Mpg: 32 }
 , 
-Bil 108 {
+Bil 108
+Garage: 0 {
 Make: Dodge
 Model: Intrepid SE 4dr
 Year: 2017
@@ -1259,7 +1349,8 @@ Mpg(City): 21
 Mpg (Highway): 29
 Average Mpg: 25 }
 , 
-Bil 109 {
+Bil 109
+Garage: 0 {
 Make: Dodge
 Model: Stratus SXT 4dr
 Year: 2018
@@ -1273,7 +1364,8 @@ Mpg(City): 21
 Mpg (Highway): 28
 Average Mpg: 24 }
 , 
-Bil 110 {
+Bil 110
+Garage: 0 {
 Make: Dodge
 Model: Stratus SE 4dr
 Year: 2019
@@ -1287,7 +1379,8 @@ Mpg(City): 21
 Mpg (Highway): 28
 Average Mpg: 24 }
 , 
-Bil 111 {
+Bil 111
+Garage: 0 {
 Make: Dodge
 Model: Intrepid ES 4dr
 Year: 2020
@@ -1301,7 +1394,8 @@ Mpg(City): 18
 Mpg (Highway): 27
 Average Mpg: 22 }
 , 
-Bil 112 {
+Bil 112
+Garage: 0 {
 Make: Dodge
 Model: Caravan SE
 Year: 2018
@@ -1315,7 +1409,8 @@ Mpg(City): 20
 Mpg (Highway): 26
 Average Mpg: 23 }
 , 
-Bil 113 {
+Bil 113
+Garage: 0 {
 Make: Dodge
 Model: Grand Caravan SXT
 Year: 2011
@@ -1329,7 +1424,8 @@ Mpg(City): 18
 Mpg (Highway): 25
 Average Mpg: 21 }
 , 
-Bil 121 {
+Bil 121
+Garage: 0 {
 Make: Ford
 Model: Escape XLS
 Year: 2019
@@ -1343,7 +1439,8 @@ Mpg(City): 18
 Mpg (Highway): 23
 Average Mpg: 20 }
 , 
-Bil 122 {
+Bil 122
+Garage: 0 {
 Make: Ford
 Model: Focus ZX3 2dr hatch
 Year: 2020
@@ -1357,7 +1454,8 @@ Mpg(City): 26
 Mpg (Highway): 33
 Average Mpg: 29 }
 , 
-Bil 123 {
+Bil 123
+Garage: 0 {
 Make: Ford
 Model: Focus LX 4dr
 Year: 2018
@@ -1371,7 +1469,8 @@ Mpg(City): 27
 Mpg (Highway): 36
 Average Mpg: 31 }
 , 
-Bil 124 {
+Bil 124
+Garage: 0 {
 Make: Ford
 Model: Focus SE 4dr
 Year: 2011
@@ -1385,7 +1484,8 @@ Mpg(City): 26
 Mpg (Highway): 33
 Average Mpg: 29 }
 , 
-Bil 125 {
+Bil 125
+Garage: 0 {
 Make: Ford
 Model: Focus ZX5 5dr
 Year: 2012
@@ -1399,7 +1499,8 @@ Mpg(City): 26
 Mpg (Highway): 33
 Average Mpg: 29 }
 , 
-Bil 126 {
+Bil 126
+Garage: 0 {
 Make: Ford
 Model: Focus SVT 2dr
 Year: 2013
@@ -1413,7 +1514,8 @@ Mpg(City): 21
 Mpg (Highway): 28
 Average Mpg: 24 }
 , 
-Bil 127 {
+Bil 127
+Garage: 0 {
 Make: Ford
 Model: Taurus LX 4dr
 Year: 2014
@@ -1427,7 +1529,8 @@ Mpg(City): 20
 Mpg (Highway): 27
 Average Mpg: 23 }
 , 
-Bil 128 {
+Bil 128
+Garage: 0 {
 Make: Ford
 Model: Taurus SES Duratec 4dr
 Year: 2015
@@ -1441,7 +1544,8 @@ Mpg(City): 19
 Mpg (Highway): 26
 Average Mpg: 22 }
 , 
-Bil 129 {
+Bil 129
+Garage: 0 {
 Make: Ford
 Model: Crown Victoria 4dr
 Year: 2016
@@ -1455,7 +1559,8 @@ Mpg(City): 17
 Mpg (Highway): 25
 Average Mpg: 21 }
 , 
-Bil 130 {
+Bil 130
+Garage: 0 {
 Make: Ford
 Model: Crown Victoria LX 4dr
 Year: 2017
@@ -1469,7 +1574,8 @@ Mpg(City): 17
 Mpg (Highway): 25
 Average Mpg: 21 }
 , 
-Bil 131 {
+Bil 131
+Garage: 0 {
 Make: Ford
 Model: Crown Victoria LX Sport 4dr
 Year: 2018
@@ -1483,7 +1589,8 @@ Mpg(City): 17
 Mpg (Highway): 25
 Average Mpg: 21 }
 , 
-Bil 132 {
+Bil 132
+Garage: 0 {
 Make: Ford
 Model: Freestar SE
 Year: 2019
@@ -1497,7 +1604,8 @@ Mpg(City): 17
 Mpg (Highway): 23
 Average Mpg: 20 }
 , 
-Bil 133 {
+Bil 133
+Garage: 0 {
 Make: Ford
 Model: Mustang 2dr (convertible)
 Year: 2020
@@ -1511,7 +1619,8 @@ Mpg(City): 20
 Mpg (Highway): 29
 Average Mpg: 24 }
 , 
-Bil 134 {
+Bil 134
+Garage: 0 {
 Make: Ford
 Model: Mustang GT Premium convertible 2dr
 Year: 2018
@@ -1525,7 +1634,8 @@ Mpg(City): 17
 Mpg (Highway): 25
 Average Mpg: 21 }
 , 
-Bil 135 {
+Bil 135
+Garage: 0 {
 Make: Ford
 Model: Thunderbird Deluxe convert w/hardtop 2d
 Year: 2011
@@ -1539,7 +1649,8 @@ Mpg(City): 17
 Mpg (Highway): 24
 Average Mpg: 20 }
 , 
-Bil 138 {
+Bil 138
+Garage: 0 {
 Make: Ford
 Model: Ranger 2.3 XL Regular Cab
 Year: 2014
@@ -1553,7 +1664,8 @@ Mpg(City): 24
 Mpg (Highway): 29
 Average Mpg: 26 }
 , 
-Bil 139 {
+Bil 139
+Garage: 0 {
 Make: Ford
 Model: Focus ZTW
 Year: 2015
@@ -1567,7 +1679,8 @@ Mpg(City): 26
 Mpg (Highway): 33
 Average Mpg: 29 }
 , 
-Bil 140 {
+Bil 140
+Garage: 0 {
 Make: Ford
 Model: Taurus SE
 Year: 2016
@@ -1581,7 +1694,8 @@ Mpg(City): 19
 Mpg (Highway): 26
 Average Mpg: 22 }
 , 
-Bil 145 {
+Bil 145
+Garage: 0 {
 Make: GMC
 Model: Canyon Z85 SL Regular Cab
 Year: 2018
@@ -1595,7 +1709,8 @@ Mpg(City): 18
 Mpg (Highway): 25
 Average Mpg: 21 }
 , 
-Bil 149 {
+Bil 149
+Garage: 0 {
 Make: Honda
 Model: Civic Hybrid 4dr manual (gas/electric)
 Year: 2014
@@ -1609,7 +1724,8 @@ Mpg(City): 46
 Mpg (Highway): 51
 Average Mpg: 48 }
 , 
-Bil 150 {
+Bil 150
+Garage: 0 {
 Make: Honda
 Model: Insight 2dr (gas/electric)
 Year: 2015
@@ -1623,7 +1739,8 @@ Mpg(City): 60
 Mpg (Highway): 66
 Average Mpg: 63 }
 , 
-Bil 152 {
+Bil 152
+Garage: 0 {
 Make: Honda
 Model: CR-V LX
 Year: 2017
@@ -1637,7 +1754,8 @@ Mpg(City): 21
 Mpg (Highway): 25
 Average Mpg: 23 }
 , 
-Bil 153 {
+Bil 153
+Garage: 0 {
 Make: Honda
 Model: Element LX
 Year: 2018
@@ -1651,7 +1769,8 @@ Mpg(City): 21
 Mpg (Highway): 24
 Average Mpg: 22 }
 , 
-Bil 154 {
+Bil 154
+Garage: 0 {
 Make: Honda
 Model: Civic DX 2dr
 Year: 2019
@@ -1665,7 +1784,8 @@ Mpg(City): 32
 Mpg (Highway): 38
 Average Mpg: 35 }
 , 
-Bil 155 {
+Bil 155
+Garage: 0 {
 Make: Honda
 Model: Civic HX 2dr
 Year: 2020
@@ -1679,7 +1799,8 @@ Mpg(City): 36
 Mpg (Highway): 44
 Average Mpg: 40 }
 , 
-Bil 156 {
+Bil 156
+Garage: 0 {
 Make: Honda
 Model: Civic LX 4dr
 Year: 2018
@@ -1693,7 +1814,8 @@ Mpg(City): 32
 Mpg (Highway): 38
 Average Mpg: 35 }
 , 
-Bil 157 {
+Bil 157
+Garage: 0 {
 Make: Honda
 Model: Accord LX 2dr
 Year: 2011
@@ -1707,7 +1829,8 @@ Mpg(City): 26
 Mpg (Highway): 34
 Average Mpg: 30 }
 , 
-Bil 158 {
+Bil 158
+Garage: 0 {
 Make: Honda
 Model: Accord EX 2dr
 Year: 2012
@@ -1721,7 +1844,8 @@ Mpg(City): 26
 Mpg (Highway): 34
 Average Mpg: 30 }
 , 
-Bil 159 {
+Bil 159
+Garage: 0 {
 Make: Honda
 Model: Civic EX 4dr
 Year: 2013
@@ -1735,7 +1859,8 @@ Mpg(City): 32
 Mpg (Highway): 37
 Average Mpg: 34 }
 , 
-Bil 160 {
+Bil 160
+Garage: 0 {
 Make: Honda
 Model: Civic Si 2dr hatch
 Year: 2014
@@ -1749,7 +1874,8 @@ Mpg(City): 26
 Mpg (Highway): 30
 Average Mpg: 28 }
 , 
-Bil 161 {
+Bil 161
+Garage: 0 {
 Make: Honda
 Model: Accord LX V6 4dr
 Year: 2015
@@ -1763,7 +1889,8 @@ Mpg(City): 21
 Mpg (Highway): 30
 Average Mpg: 25 }
 , 
-Bil 162 {
+Bil 162
+Garage: 0 {
 Make: Honda
 Model: Accord EX V6 2dr
 Year: 2016
@@ -1777,7 +1904,8 @@ Mpg(City): 21
 Mpg (Highway): 30
 Average Mpg: 25 }
 , 
-Bil 163 {
+Bil 163
+Garage: 0 {
 Make: Honda
 Model: Odyssey LX
 Year: 2017
@@ -1791,7 +1919,8 @@ Mpg(City): 18
 Mpg (Highway): 25
 Average Mpg: 21 }
 , 
-Bil 164 {
+Bil 164
+Garage: 0 {
 Make: Honda
 Model: Odyssey EX
 Year: 2018
@@ -1805,7 +1934,8 @@ Mpg(City): 18
 Mpg (Highway): 25
 Average Mpg: 21 }
 , 
-Bil 165 {
+Bil 165
+Garage: 0 {
 Make: Honda
 Model: S2000 convertible 2dr
 Year: 2019
@@ -1819,7 +1949,8 @@ Mpg(City): 20
 Mpg (Highway): 25
 Average Mpg: 22 }
 , 
-Bil 167 {
+Bil 167
+Garage: 0 {
 Make: Hyundai
 Model: Santa Fe GLS
 Year: 2018
@@ -1833,7 +1964,8 @@ Mpg(City): 20
 Mpg (Highway): 26
 Average Mpg: 23 }
 , 
-Bil 168 {
+Bil 168
+Garage: 0 {
 Make: Hyundai
 Model: Accent 2dr hatch
 Year: 2011
@@ -1847,7 +1979,8 @@ Mpg(City): 29
 Mpg (Highway): 33
 Average Mpg: 31 }
 , 
-Bil 169 {
+Bil 169
+Garage: 0 {
 Make: Hyundai
 Model: Accent GL 4dr
 Year: 2012
@@ -1861,7 +1994,8 @@ Mpg(City): 29
 Mpg (Highway): 33
 Average Mpg: 31 }
 , 
-Bil 170 {
+Bil 170
+Garage: 0 {
 Make: Hyundai
 Model: Accent GT 2dr hatch
 Year: 2013
@@ -1875,7 +2009,8 @@ Mpg(City): 29
 Mpg (Highway): 33
 Average Mpg: 31 }
 , 
-Bil 171 {
+Bil 171
+Garage: 0 {
 Make: Hyundai
 Model: Elantra GLS 4dr
 Year: 2014
@@ -1889,7 +2024,8 @@ Mpg(City): 26
 Mpg (Highway): 34
 Average Mpg: 30 }
 , 
-Bil 172 {
+Bil 172
+Garage: 0 {
 Make: Hyundai
 Model: Elantra GT 4dr
 Year: 2015
@@ -1903,7 +2039,8 @@ Mpg(City): 26
 Mpg (Highway): 34
 Average Mpg: 30 }
 , 
-Bil 173 {
+Bil 173
+Garage: 0 {
 Make: Hyundai
 Model: Elantra GT 4dr hatch
 Year: 2016
@@ -1917,7 +2054,8 @@ Mpg(City): 26
 Mpg (Highway): 34
 Average Mpg: 30 }
 , 
-Bil 174 {
+Bil 174
+Garage: 0 {
 Make: Hyundai
 Model: Sonata GLS 4dr
 Year: 2017
@@ -1931,7 +2069,8 @@ Mpg(City): 19
 Mpg (Highway): 27
 Average Mpg: 23 }
 , 
-Bil 175 {
+Bil 175
+Garage: 0 {
 Make: Hyundai
 Model: Sonata LX 4dr
 Year: 2018
@@ -1945,7 +2084,8 @@ Mpg(City): 19
 Mpg (Highway): 27
 Average Mpg: 23 }
 , 
-Bil 176 {
+Bil 176
+Garage: 0 {
 Make: Hyundai
 Model: XG350 4dr
 Year: 2019
@@ -1959,7 +2099,8 @@ Mpg(City): 17
 Mpg (Highway): 26
 Average Mpg: 21 }
 , 
-Bil 177 {
+Bil 177
+Garage: 0 {
 Make: Hyundai
 Model: XG350 L 4dr
 Year: 2020
@@ -1973,7 +2114,8 @@ Mpg(City): 17
 Mpg (Highway): 26
 Average Mpg: 21 }
 , 
-Bil 178 {
+Bil 178
+Garage: 0 {
 Make: Hyundai
 Model: Tiburon GT V6 2dr
 Year: 2018
@@ -1987,7 +2129,8 @@ Mpg(City): 19
 Mpg (Highway): 26
 Average Mpg: 22 }
 , 
-Bil 179 {
+Bil 179
+Garage: 0 {
 Make: Infiniti
 Model: G35 4dr
 Year: 2011
@@ -2001,7 +2144,8 @@ Mpg(City): 18
 Mpg (Highway): 26
 Average Mpg: 22 }
 , 
-Bil 180 {
+Bil 180
+Garage: 0 {
 Make: Infiniti
 Model: G35 Sport Coupe 2dr
 Year: 2012
@@ -2015,7 +2159,8 @@ Mpg(City): 18
 Mpg (Highway): 26
 Average Mpg: 22 }
 , 
-Bil 181 {
+Bil 181
+Garage: 0 {
 Make: Infiniti
 Model: G35 4dr
 Year: 2013
@@ -2029,7 +2174,8 @@ Mpg(City): 18
 Mpg (Highway): 26
 Average Mpg: 22 }
 , 
-Bil 182 {
+Bil 182
+Garage: 0 {
 Make: Infiniti
 Model: I35 4dr
 Year: 2014
@@ -2043,7 +2189,8 @@ Mpg(City): 19
 Mpg (Highway): 26
 Average Mpg: 22 }
 , 
-Bil 183 {
+Bil 183
+Garage: 0 {
 Make: Infiniti
 Model: M45 4dr
 Year: 2015
@@ -2057,7 +2204,8 @@ Mpg(City): 17
 Mpg (Highway): 23
 Average Mpg: 20 }
 , 
-Bil 184 {
+Bil 184
+Garage: 0 {
 Make: Infiniti
 Model: Q45 Luxury 4dr
 Year: 2016
@@ -2071,7 +2219,8 @@ Mpg(City): 17
 Mpg (Highway): 23
 Average Mpg: 20 }
 , 
-Bil 189 {
+Bil 189
+Garage: 0 {
 Make: Jaguar
 Model: X-Type 2.5 4dr
 Year: 2018
@@ -2085,7 +2234,8 @@ Mpg(City): 18
 Mpg (Highway): 26
 Average Mpg: 22 }
 , 
-Bil 190 {
+Bil 190
+Garage: 0 {
 Make: Jaguar
 Model: X-Type 3.0 4dr
 Year: 2011
@@ -2099,7 +2249,8 @@ Mpg(City): 18
 Mpg (Highway): 25
 Average Mpg: 21 }
 , 
-Bil 191 {
+Bil 191
+Garage: 0 {
 Make: Jaguar
 Model: S-Type 3.0 4dr
 Year: 2012
@@ -2113,7 +2264,8 @@ Mpg(City): 18
 Mpg (Highway): 26
 Average Mpg: 22 }
 , 
-Bil 192 {
+Bil 192
+Garage: 0 {
 Make: Jaguar
 Model: S-Type 4.2 4dr
 Year: 2013
@@ -2127,7 +2279,8 @@ Mpg(City): 18
 Mpg (Highway): 28
 Average Mpg: 23 }
 , 
-Bil 193 {
+Bil 193
+Garage: 0 {
 Make: Jaguar
 Model: S-Type R 4dr
 Year: 2014
@@ -2141,7 +2294,8 @@ Mpg(City): 17
 Mpg (Highway): 24
 Average Mpg: 20 }
 , 
-Bil 194 {
+Bil 194
+Garage: 0 {
 Make: Jaguar
 Model: Vanden Plas 4dr
 Year: 2015
@@ -2155,7 +2309,8 @@ Mpg(City): 18
 Mpg (Highway): 28
 Average Mpg: 23 }
 , 
-Bil 195 {
+Bil 195
+Garage: 0 {
 Make: Jaguar
 Model: XJ8 4dr
 Year: 2016
@@ -2169,7 +2324,8 @@ Mpg(City): 18
 Mpg (Highway): 28
 Average Mpg: 23 }
 , 
-Bil 196 {
+Bil 196
+Garage: 0 {
 Make: Jaguar
 Model: XJR 4dr
 Year: 2017
@@ -2183,7 +2339,8 @@ Mpg(City): 17
 Mpg (Highway): 24
 Average Mpg: 20 }
 , 
-Bil 197 {
+Bil 197
+Garage: 0 {
 Make: Jaguar
 Model: XK8 coupe 2dr
 Year: 2018
@@ -2197,7 +2354,8 @@ Mpg(City): 18
 Mpg (Highway): 26
 Average Mpg: 22 }
 , 
-Bil 198 {
+Bil 198
+Garage: 0 {
 Make: Jaguar
 Model: XK8 convertible 2dr
 Year: 2019
@@ -2211,7 +2369,8 @@ Mpg(City): 18
 Mpg (Highway): 26
 Average Mpg: 22 }
 , 
-Bil 202 {
+Bil 202
+Garage: 0 {
 Make: Jeep
 Model: Liberty Sport
 Year: 2012
@@ -2225,7 +2384,8 @@ Mpg(City): 20
 Mpg (Highway): 24
 Average Mpg: 22 }
 , 
-Bil 205 {
+Bil 205
+Garage: 0 {
 Make: Kia
 Model: Optima LX 4dr
 Year: 2015
@@ -2239,7 +2399,8 @@ Mpg(City): 23
 Mpg (Highway): 30
 Average Mpg: 26 }
 , 
-Bil 206 {
+Bil 206
+Garage: 0 {
 Make: Kia
 Model: Rio 4dr manual
 Year: 2016
@@ -2253,7 +2414,8 @@ Mpg(City): 26
 Mpg (Highway): 33
 Average Mpg: 29 }
 , 
-Bil 207 {
+Bil 207
+Garage: 0 {
 Make: Kia
 Model: Rio 4dr auto
 Year: 2017
@@ -2267,7 +2429,8 @@ Mpg(City): 25
 Mpg (Highway): 32
 Average Mpg: 28 }
 , 
-Bil 208 {
+Bil 208
+Garage: 0 {
 Make: Kia
 Model: Spectra 4dr
 Year: 2018
@@ -2281,7 +2444,8 @@ Mpg(City): 24
 Mpg (Highway): 32
 Average Mpg: 28 }
 , 
-Bil 209 {
+Bil 209
+Garage: 0 {
 Make: Kia
 Model: Spectra GS 4dr hatch
 Year: 2019
@@ -2295,7 +2459,8 @@ Mpg(City): 24
 Mpg (Highway): 32
 Average Mpg: 28 }
 , 
-Bil 210 {
+Bil 210
+Garage: 0 {
 Make: Kia
 Model: Spectra GSX 4dr hatch
 Year: 2020
@@ -2309,7 +2474,8 @@ Mpg(City): 24
 Mpg (Highway): 32
 Average Mpg: 28 }
 , 
-Bil 211 {
+Bil 211
+Garage: 0 {
 Make: Kia
 Model: Optima LX V6 4dr
 Year: 2018
@@ -2323,7 +2489,8 @@ Mpg(City): 20
 Mpg (Highway): 27
 Average Mpg: 23 }
 , 
-Bil 212 {
+Bil 212
+Garage: 0 {
 Make: Kia
 Model: Amanti 4dr
 Year: 2011
@@ -2337,7 +2504,8 @@ Mpg(City): 17
 Mpg (Highway): 25
 Average Mpg: 21 }
 , 
-Bil 214 {
+Bil 214
+Garage: 0 {
 Make: Kia
 Model: Rio Cinco
 Year: 2013
@@ -2351,7 +2519,8 @@ Mpg(City): 26
 Mpg (Highway): 33
 Average Mpg: 29 }
 , 
-Bil 220 {
+Bil 220
+Garage: 0 {
 Make: Lexus
 Model: RX 330
 Year: 2019
@@ -2365,7 +2534,8 @@ Mpg(City): 18
 Mpg (Highway): 24
 Average Mpg: 21 }
 , 
-Bil 221 {
+Bil 221
+Garage: 0 {
 Make: Lexus
 Model: ES 330 4dr
 Year: 2020
@@ -2379,7 +2549,8 @@ Mpg(City): 20
 Mpg (Highway): 29
 Average Mpg: 24 }
 , 
-Bil 222 {
+Bil 222
+Garage: 0 {
 Make: Lexus
 Model: IS 300 4dr manual
 Year: 2018
@@ -2393,7 +2564,8 @@ Mpg(City): 18
 Mpg (Highway): 25
 Average Mpg: 21 }
 , 
-Bil 223 {
+Bil 223
+Garage: 0 {
 Make: Lexus
 Model: IS 300 4dr auto
 Year: 2011
@@ -2407,7 +2579,8 @@ Mpg(City): 18
 Mpg (Highway): 24
 Average Mpg: 21 }
 , 
-Bil 224 {
+Bil 224
+Garage: 0 {
 Make: Lexus
 Model: GS 300 4dr
 Year: 2012
@@ -2421,7 +2594,8 @@ Mpg(City): 18
 Mpg (Highway): 25
 Average Mpg: 21 }
 , 
-Bil 225 {
+Bil 225
+Garage: 0 {
 Make: Lexus
 Model: GS 430 4dr
 Year: 2013
@@ -2435,7 +2609,8 @@ Mpg(City): 18
 Mpg (Highway): 23
 Average Mpg: 20 }
 , 
-Bil 226 {
+Bil 226
+Garage: 0 {
 Make: Lexus
 Model: LS 430 4dr
 Year: 2014
@@ -2449,7 +2624,8 @@ Mpg(City): 18
 Mpg (Highway): 25
 Average Mpg: 21 }
 , 
-Bil 227 {
+Bil 227
+Garage: 0 {
 Make: Lexus
 Model: SC 430 convertible 2dr
 Year: 2015
@@ -2463,7 +2639,8 @@ Mpg(City): 18
 Mpg (Highway): 23
 Average Mpg: 20 }
 , 
-Bil 228 {
+Bil 228
+Garage: 0 {
 Make: Lexus
 Model: IS 300 SportCross
 Year: 2016
@@ -2477,7 +2654,8 @@ Mpg(City): 18
 Mpg (Highway): 24
 Average Mpg: 21 }
 , 
-Bil 231 {
+Bil 231
+Garage: 0 {
 Make: Lincoln
 Model: LS V6 Luxury 4dr
 Year: 2019
@@ -2491,7 +2669,8 @@ Mpg(City): 20
 Mpg (Highway): 26
 Average Mpg: 23 }
 , 
-Bil 232 {
+Bil 232
+Garage: 0 {
 Make: Lincoln
 Model: LS V6 Premium 4dr
 Year: 2020
@@ -2505,7 +2684,8 @@ Mpg(City): 20
 Mpg (Highway): 26
 Average Mpg: 23 }
 , 
-Bil 233 {
+Bil 233
+Garage: 0 {
 Make: Lincoln
 Model: LS V8 Sport 4dr
 Year: 2018
@@ -2519,7 +2699,8 @@ Mpg(City): 17
 Mpg (Highway): 24
 Average Mpg: 20 }
 , 
-Bil 234 {
+Bil 234
+Garage: 0 {
 Make: Lincoln
 Model: LS V8 Ultimate 4dr
 Year: 2011
@@ -2533,7 +2714,8 @@ Mpg(City): 17
 Mpg (Highway): 24
 Average Mpg: 20 }
 , 
-Bil 235 {
+Bil 235
+Garage: 0 {
 Make: Lincoln
 Model: Town Car Signature 4dr
 Year: 2012
@@ -2547,7 +2729,8 @@ Mpg(City): 17
 Mpg (Highway): 25
 Average Mpg: 21 }
 , 
-Bil 236 {
+Bil 236
+Garage: 0 {
 Make: Lincoln
 Model: Town Car Ultimate 4dr
 Year: 2013
@@ -2561,7 +2744,8 @@ Mpg(City): 17
 Mpg (Highway): 25
 Average Mpg: 21 }
 , 
-Bil 237 {
+Bil 237
+Garage: 0 {
 Make: Lincoln
 Model: Town Car Ultimate L 4dr
 Year: 2014
@@ -2575,7 +2759,8 @@ Mpg(City): 17
 Mpg (Highway): 25
 Average Mpg: 21 }
 , 
-Bil 238 {
+Bil 238
+Garage: 0 {
 Make: MINI
 Model: Cooper
 Year: 2015
@@ -2589,7 +2774,8 @@ Mpg(City): 28
 Mpg (Highway): 37
 Average Mpg: 32 }
 , 
-Bil 239 {
+Bil 239
+Garage: 0 {
 Make: MINI
 Model: Cooper S
 Year: 2016
@@ -2603,7 +2789,8 @@ Mpg(City): 25
 Mpg (Highway): 34
 Average Mpg: 29 }
 , 
-Bil 240 {
+Bil 240
+Garage: 0 {
 Make: Mazda
 Model: Tribute DX 2.0
 Year: 2017
@@ -2617,7 +2804,8 @@ Mpg(City): 22
 Mpg (Highway): 25
 Average Mpg: 23 }
 , 
-Bil 241 {
+Bil 241
+Garage: 0 {
 Make: Mazda
 Model: Mazda3 i 4dr
 Year: 2018
@@ -2631,7 +2819,8 @@ Mpg(City): 26
 Mpg (Highway): 34
 Average Mpg: 30 }
 , 
-Bil 242 {
+Bil 242
+Garage: 0 {
 Make: Mazda
 Model: Mazda3 s 4dr
 Year: 2019
@@ -2645,7 +2834,8 @@ Mpg(City): 25
 Mpg (Highway): 31
 Average Mpg: 28 }
 , 
-Bil 243 {
+Bil 243
+Garage: 0 {
 Make: Mazda
 Model: Mazda6 i 4dr
 Year: 2020
@@ -2659,7 +2849,8 @@ Mpg(City): 24
 Mpg (Highway): 32
 Average Mpg: 28 }
 , 
-Bil 244 {
+Bil 244
+Garage: 0 {
 Make: Mazda
 Model: MPV ES
 Year: 2018
@@ -2673,7 +2864,8 @@ Mpg(City): 18
 Mpg (Highway): 25
 Average Mpg: 21 }
 , 
-Bil 245 {
+Bil 245
+Garage: 0 {
 Make: Mazda
 Model: MX-5 Miata convertible 2dr
 Year: 2011
@@ -2687,7 +2879,8 @@ Mpg(City): 23
 Mpg (Highway): 28
 Average Mpg: 25 }
 , 
-Bil 246 {
+Bil 246
+Garage: 0 {
 Make: Mazda
 Model: MX-5 Miata LS convertible 2dr
 Year: 2012
@@ -2701,7 +2894,8 @@ Mpg(City): 23
 Mpg (Highway): 28
 Average Mpg: 25 }
 , 
-Bil 247 {
+Bil 247
+Garage: 0 {
 Make: Mazda
 Model: B2300 SX Regular Cab
 Year: 2015
@@ -2715,7 +2909,8 @@ Mpg(City): 24
 Mpg (Highway): 29
 Average Mpg: 26 }
 , 
-Bil 251 {
+Bil 251
+Garage: 0 {
 Make: Mercedes-Benz
 Model: C230 Sport 2dr
 Year: 2019
@@ -2729,7 +2924,8 @@ Mpg(City): 22
 Mpg (Highway): 30
 Average Mpg: 26 }
 , 
-Bil 252 {
+Bil 252
+Garage: 0 {
 Make: Mercedes-Benz
 Model: C320 Sport 2dr
 Year: 2020
@@ -2743,7 +2939,8 @@ Mpg(City): 19
 Mpg (Highway): 26
 Average Mpg: 22 }
 , 
-Bil 253 {
+Bil 253
+Garage: 0 {
 Make: Mercedes-Benz
 Model: C240 4dr
 Year: 2018
@@ -2757,7 +2954,8 @@ Mpg(City): 20
 Mpg (Highway): 25
 Average Mpg: 22 }
 , 
-Bil 254 {
+Bil 254
+Garage: 0 {
 Make: Mercedes-Benz
 Model: C240 4dr
 Year: 2011
@@ -2771,7 +2969,8 @@ Mpg(City): 19
 Mpg (Highway): 25
 Average Mpg: 22 }
 , 
-Bil 255 {
+Bil 255
+Garage: 0 {
 Make: Mercedes-Benz
 Model: C320 Sport 4dr
 Year: 2012
@@ -2785,7 +2984,8 @@ Mpg(City): 19
 Mpg (Highway): 26
 Average Mpg: 22 }
 , 
-Bil 256 {
+Bil 256
+Garage: 0 {
 Make: Mercedes-Benz
 Model: C320 4dr
 Year: 2013
@@ -2799,7 +2999,8 @@ Mpg(City): 20
 Mpg (Highway): 26
 Average Mpg: 23 }
 , 
-Bil 257 {
+Bil 257
+Garage: 0 {
 Make: Mercedes-Benz
 Model: C320 4dr
 Year: 2014
@@ -2813,7 +3014,8 @@ Mpg(City): 19
 Mpg (Highway): 27
 Average Mpg: 23 }
 , 
-Bil 259 {
+Bil 259
+Garage: 0 {
 Make: Mercedes-Benz
 Model: CL500 2dr
 Year: 2016
@@ -2827,7 +3029,8 @@ Mpg(City): 16
 Mpg (Highway): 24
 Average Mpg: 20 }
 , 
-Bil 261 {
+Bil 261
+Garage: 0 {
 Make: Mercedes-Benz
 Model: CLK320 coupe 2dr (convertible)
 Year: 2018
@@ -2841,7 +3044,8 @@ Mpg(City): 20
 Mpg (Highway): 26
 Average Mpg: 23 }
 , 
-Bil 263 {
+Bil 263
+Garage: 0 {
 Make: Mercedes-Benz
 Model: E320 4dr
 Year: 2020
@@ -2855,7 +3059,8 @@ Mpg(City): 19
 Mpg (Highway): 27
 Average Mpg: 23 }
 , 
-Bil 265 {
+Bil 265
+Garage: 0 {
 Make: Mercedes-Benz
 Model: S430 4dr
 Year: 2011
@@ -2869,7 +3074,8 @@ Mpg(City): 18
 Mpg (Highway): 26
 Average Mpg: 22 }
 , 
-Bil 266 {
+Bil 266
+Garage: 0 {
 Make: Mercedes-Benz
 Model: S500 4dr
 Year: 2012
@@ -2883,7 +3089,8 @@ Mpg(City): 16
 Mpg (Highway): 24
 Average Mpg: 20 }
 , 
-Bil 270 {
+Bil 270
+Garage: 0 {
 Make: Mercedes-Benz
 Model: SLK230 convertible 2dr
 Year: 2016
@@ -2897,7 +3104,8 @@ Mpg(City): 21
 Mpg (Highway): 29
 Average Mpg: 25 }
 , 
-Bil 272 {
+Bil 272
+Garage: 0 {
 Make: Mercedes-Benz
 Model: C240
 Year: 2018
@@ -2911,7 +3119,8 @@ Mpg(City): 19
 Mpg (Highway): 25
 Average Mpg: 22 }
 , 
-Bil 273 {
+Bil 273
+Garage: 0 {
 Make: Mercedes-Benz
 Model: E320
 Year: 2019
@@ -2925,7 +3134,8 @@ Mpg(City): 19
 Mpg (Highway): 27
 Average Mpg: 23 }
 , 
-Bil 274 {
+Bil 274
+Garage: 0 {
 Make: Mercedes-Benz
 Model: E500
 Year: 2020
@@ -2939,7 +3149,8 @@ Mpg(City): 16
 Mpg (Highway): 24
 Average Mpg: 20 }
 , 
-Bil 276 {
+Bil 276
+Garage: 0 {
 Make: Mercury
 Model: Sable GS 4dr
 Year: 2011
@@ -2953,7 +3164,8 @@ Mpg(City): 20
 Mpg (Highway): 27
 Average Mpg: 23 }
 , 
-Bil 277 {
+Bil 277
+Garage: 0 {
 Make: Mercury
 Model: Grand Marquis GS 4dr
 Year: 2012
@@ -2967,7 +3179,8 @@ Mpg(City): 17
 Mpg (Highway): 25
 Average Mpg: 21 }
 , 
-Bil 278 {
+Bil 278
+Garage: 0 {
 Make: Mercury
 Model: Grand Marquis LS Premium 4dr
 Year: 2013
@@ -2981,7 +3194,8 @@ Mpg(City): 17
 Mpg (Highway): 25
 Average Mpg: 21 }
 , 
-Bil 279 {
+Bil 279
+Garage: 0 {
 Make: Mercury
 Model: Sable LS Premium 4dr
 Year: 2014
@@ -2995,7 +3209,8 @@ Mpg(City): 19
 Mpg (Highway): 26
 Average Mpg: 22 }
 , 
-Bil 280 {
+Bil 280
+Garage: 0 {
 Make: Mercury
 Model: Grand Marquis LS Ultimate 4dr
 Year: 2015
@@ -3009,7 +3224,8 @@ Mpg(City): 17
 Mpg (Highway): 25
 Average Mpg: 21 }
 , 
-Bil 281 {
+Bil 281
+Garage: 0 {
 Make: Mercury
 Model: Marauder 4dr
 Year: 2016
@@ -3023,7 +3239,8 @@ Mpg(City): 17
 Mpg (Highway): 23
 Average Mpg: 20 }
 , 
-Bil 283 {
+Bil 283
+Garage: 0 {
 Make: Mercury
 Model: Sable GS
 Year: 2018
@@ -3037,7 +3254,8 @@ Mpg(City): 19
 Mpg (Highway): 26
 Average Mpg: 22 }
 , 
-Bil 286 {
+Bil 286
+Garage: 0 {
 Make: Mitsubishi
 Model: Outlander LS
 Year: 2018
@@ -3051,7 +3269,8 @@ Mpg(City): 21
 Mpg (Highway): 27
 Average Mpg: 24 }
 , 
-Bil 287 {
+Bil 287
+Garage: 0 {
 Make: Mitsubishi
 Model: Lancer ES 4dr
 Year: 2011
@@ -3065,7 +3284,8 @@ Mpg(City): 25
 Mpg (Highway): 31
 Average Mpg: 28 }
 , 
-Bil 288 {
+Bil 288
+Garage: 0 {
 Make: Mitsubishi
 Model: Lancer LS 4dr
 Year: 2012
@@ -3079,7 +3299,8 @@ Mpg(City): 25
 Mpg (Highway): 31
 Average Mpg: 28 }
 , 
-Bil 289 {
+Bil 289
+Garage: 0 {
 Make: Mitsubishi
 Model: Galant ES 2.4L 4dr
 Year: 2013
@@ -3093,7 +3314,8 @@ Mpg(City): 23
 Mpg (Highway): 30
 Average Mpg: 26 }
 , 
-Bil 290 {
+Bil 290
+Garage: 0 {
 Make: Mitsubishi
 Model: Lancer OZ Rally 4dr auto
 Year: 2014
@@ -3107,7 +3329,8 @@ Mpg(City): 25
 Mpg (Highway): 31
 Average Mpg: 28 }
 , 
-Bil 291 {
+Bil 291
+Garage: 0 {
 Make: Mitsubishi
 Model: Diamante LS 4dr
 Year: 2015
@@ -3121,7 +3344,8 @@ Mpg(City): 18
 Mpg (Highway): 25
 Average Mpg: 21 }
 , 
-Bil 292 {
+Bil 292
+Garage: 0 {
 Make: Mitsubishi
 Model: Galant GTS 4dr
 Year: 2016
@@ -3135,7 +3359,8 @@ Mpg(City): 18
 Mpg (Highway): 26
 Average Mpg: 22 }
 , 
-Bil 293 {
+Bil 293
+Garage: 0 {
 Make: Mitsubishi
 Model: Eclipse GTS 2dr
 Year: 2017
@@ -3149,7 +3374,8 @@ Mpg(City): 21
 Mpg (Highway): 28
 Average Mpg: 24 }
 , 
-Bil 294 {
+Bil 294
+Garage: 0 {
 Make: Mitsubishi
 Model: Eclipse Spyder GT convertible 2dr
 Year: 2018
@@ -3163,7 +3389,8 @@ Mpg(City): 21
 Mpg (Highway): 28
 Average Mpg: 24 }
 , 
-Bil 295 {
+Bil 295
+Garage: 0 {
 Make: Mitsubishi
 Model: Lancer Evolution 4dr
 Year: 2019
@@ -3177,7 +3404,8 @@ Mpg(City): 18
 Mpg (Highway): 26
 Average Mpg: 22 }
 , 
-Bil 296 {
+Bil 296
+Garage: 0 {
 Make: Mitsubishi
 Model: Lancer Sportback LS
 Year: 2020
@@ -3191,7 +3419,8 @@ Mpg(City): 25
 Mpg (Highway): 31
 Average Mpg: 28 }
 , 
-Bil 300 {
+Bil 300
+Garage: 0 {
 Make: Nissan
 Model: Sentra 1.8 4dr
 Year: 2013
@@ -3205,7 +3434,8 @@ Mpg(City): 28
 Mpg (Highway): 35
 Average Mpg: 31 }
 , 
-Bil 301 {
+Bil 301
+Garage: 0 {
 Make: Nissan
 Model: Sentra 1.8 S 4dr
 Year: 2014
@@ -3219,7 +3449,8 @@ Mpg(City): 28
 Mpg (Highway): 35
 Average Mpg: 31 }
 , 
-Bil 302 {
+Bil 302
+Garage: 0 {
 Make: Nissan
 Model: Altima S 4dr
 Year: 2015
@@ -3233,7 +3464,8 @@ Mpg(City): 21
 Mpg (Highway): 26
 Average Mpg: 23 }
 , 
-Bil 303 {
+Bil 303
+Garage: 0 {
 Make: Nissan
 Model: Sentra SE-R 4dr
 Year: 2016
@@ -3247,7 +3479,8 @@ Mpg(City): 23
 Mpg (Highway): 28
 Average Mpg: 25 }
 , 
-Bil 304 {
+Bil 304
+Garage: 0 {
 Make: Nissan
 Model: Altima SE 4dr
 Year: 2017
@@ -3261,7 +3494,8 @@ Mpg(City): 21
 Mpg (Highway): 26
 Average Mpg: 23 }
 , 
-Bil 305 {
+Bil 305
+Garage: 0 {
 Make: Nissan
 Model: Maxima SE 4dr
 Year: 2018
@@ -3275,7 +3509,8 @@ Mpg(City): 20
 Mpg (Highway): 28
 Average Mpg: 24 }
 , 
-Bil 306 {
+Bil 306
+Garage: 0 {
 Make: Nissan
 Model: Maxima SL 4dr
 Year: 2019
@@ -3289,7 +3524,8 @@ Mpg(City): 20
 Mpg (Highway): 28
 Average Mpg: 24 }
 , 
-Bil 307 {
+Bil 307
+Garage: 0 {
 Make: Nissan
 Model: Quest S
 Year: 2020
@@ -3303,7 +3539,8 @@ Mpg(City): 19
 Mpg (Highway): 26
 Average Mpg: 22 }
 , 
-Bil 308 {
+Bil 308
+Garage: 0 {
 Make: Nissan
 Model: Quest SE
 Year: 2018
@@ -3317,7 +3554,8 @@ Mpg(City): 18
 Mpg (Highway): 25
 Average Mpg: 21 }
 , 
-Bil 309 {
+Bil 309
+Garage: 0 {
 Make: Nissan
 Model: 350Z coupe 2dr
 Year: 2011
@@ -3331,7 +3569,8 @@ Mpg(City): 20
 Mpg (Highway): 26
 Average Mpg: 23 }
 , 
-Bil 310 {
+Bil 310
+Garage: 0 {
 Make: Nissan
 Model: 350Z Enthusiast convertible 2dr
 Year: 2012
@@ -3345,7 +3584,8 @@ Mpg(City): 20
 Mpg (Highway): 26
 Average Mpg: 23 }
 , 
-Bil 313 {
+Bil 313
+Garage: 0 {
 Make: Nissan
 Model: Murano SL
 Year: 2015
@@ -3359,7 +3599,8 @@ Mpg(City): 20
 Mpg (Highway): 25
 Average Mpg: 22 }
 , 
-Bil 314 {
+Bil 314
+Garage: 0 {
 Make: Oldsmobile
 Model: Alero GX 2dr
 Year: 2016
@@ -3373,7 +3614,8 @@ Mpg(City): 24
 Mpg (Highway): 32
 Average Mpg: 28 }
 , 
-Bil 315 {
+Bil 315
+Garage: 0 {
 Make: Oldsmobile
 Model: Alero GLS 2dr
 Year: 2017
@@ -3387,7 +3629,8 @@ Mpg(City): 20
 Mpg (Highway): 29
 Average Mpg: 24 }
 , 
-Bil 316 {
+Bil 316
+Garage: 0 {
 Make: Oldsmobile
 Model: Silhouette GL
 Year: 2018
@@ -3401,7 +3644,8 @@ Mpg(City): 19
 Mpg (Highway): 26
 Average Mpg: 22 }
 , 
-Bil 317 {
+Bil 317
+Garage: 0 {
 Make: Pontiac
 Model: Aztekt
 Year: 2019
@@ -3415,7 +3659,8 @@ Mpg(City): 19
 Mpg (Highway): 26
 Average Mpg: 22 }
 , 
-Bil 318 {
+Bil 318
+Garage: 0 {
 Make: Pontiac
 Model: Sunfire 1SA 2dr
 Year: 2020
@@ -3429,7 +3674,8 @@ Mpg(City): 24
 Mpg (Highway): 33
 Average Mpg: 28 }
 , 
-Bil 319 {
+Bil 319
+Garage: 0 {
 Make: Pontiac
 Model: Grand Am GT 2dr
 Year: 2018
@@ -3443,7 +3689,8 @@ Mpg(City): 20
 Mpg (Highway): 29
 Average Mpg: 24 }
 , 
-Bil 320 {
+Bil 320
+Garage: 0 {
 Make: Pontiac
 Model: Grand Prix GT1 4dr
 Year: 2011
@@ -3457,7 +3704,8 @@ Mpg(City): 20
 Mpg (Highway): 30
 Average Mpg: 25 }
 , 
-Bil 321 {
+Bil 321
+Garage: 0 {
 Make: Pontiac
 Model: Sunfire 1SC 2dr
 Year: 2012
@@ -3471,7 +3719,8 @@ Mpg(City): 24
 Mpg (Highway): 33
 Average Mpg: 28 }
 , 
-Bil 322 {
+Bil 322
+Garage: 0 {
 Make: Pontiac
 Model: Grand Prix GT2 4dr
 Year: 2013
@@ -3485,7 +3734,8 @@ Mpg(City): 20
 Mpg (Highway): 30
 Average Mpg: 25 }
 , 
-Bil 324 {
+Bil 324
+Garage: 0 {
 Make: Pontiac
 Model: Montana
 Year: 2015
@@ -3499,7 +3749,8 @@ Mpg(City): 19
 Mpg (Highway): 26
 Average Mpg: 22 }
 , 
-Bil 325 {
+Bil 325
+Garage: 0 {
 Make: Pontiac
 Model: Montana EWB
 Year: 2016
@@ -3513,7 +3764,8 @@ Mpg(City): 18
 Mpg (Highway): 24
 Average Mpg: 21 }
 , 
-Bil 327 {
+Bil 327
+Garage: 0 {
 Make: Pontiac
 Model: Vibe
 Year: 2018
@@ -3527,7 +3779,8 @@ Mpg(City): 29
 Mpg (Highway): 36
 Average Mpg: 32 }
 , 
-Bil 329 {
+Bil 329
+Garage: 0 {
 Make: Porsche
 Model: 911 Carrera convertible 2dr (coupe)
 Year: 2020
@@ -3541,7 +3794,8 @@ Mpg(City): 18
 Mpg (Highway): 26
 Average Mpg: 22 }
 , 
-Bil 330 {
+Bil 330
+Garage: 0 {
 Make: Porsche
 Model: 911 Carrera 4S coupe 2dr (convert)
 Year: 2018
@@ -3555,7 +3809,8 @@ Mpg(City): 17
 Mpg (Highway): 24
 Average Mpg: 20 }
 , 
-Bil 331 {
+Bil 331
+Garage: 0 {
 Make: Porsche
 Model: 911 Targa coupe 2dr
 Year: 2011
@@ -3569,7 +3824,8 @@ Mpg(City): 18
 Mpg (Highway): 26
 Average Mpg: 22 }
 , 
-Bil 332 {
+Bil 332
+Garage: 0 {
 Make: Porsche
 Model: 911 GT2 2dr
 Year: 2012
@@ -3583,7 +3839,8 @@ Mpg(City): 17
 Mpg (Highway): 24
 Average Mpg: 20 }
 , 
-Bil 333 {
+Bil 333
+Garage: 0 {
 Make: Porsche
 Model: Boxster convertible 2dr
 Year: 2013
@@ -3597,7 +3854,8 @@ Mpg(City): 20
 Mpg (Highway): 29
 Average Mpg: 24 }
 , 
-Bil 334 {
+Bil 334
+Garage: 0 {
 Make: Porsche
 Model: Boxster S convertible 2dr
 Year: 2014
@@ -3611,7 +3869,8 @@ Mpg(City): 18
 Mpg (Highway): 26
 Average Mpg: 22 }
 , 
-Bil 335 {
+Bil 335
+Garage: 0 {
 Make: Saab
 Model: 9-3 Arc Sport 4dr
 Year: 2015
@@ -3625,7 +3884,8 @@ Mpg(City): 20
 Mpg (Highway): 28
 Average Mpg: 24 }
 , 
-Bil 336 {
+Bil 336
+Garage: 0 {
 Make: Saab
 Model: 9-3 Aero 4dr
 Year: 2016
@@ -3639,7 +3899,8 @@ Mpg(City): 20
 Mpg (Highway): 28
 Average Mpg: 24 }
 , 
-Bil 337 {
+Bil 337
+Garage: 0 {
 Make: Saab
 Model: 9-5 Arc 4dr
 Year: 2017
@@ -3653,7 +3914,8 @@ Mpg(City): 21
 Mpg (Highway): 29
 Average Mpg: 25 }
 , 
-Bil 338 {
+Bil 338
+Garage: 0 {
 Make: Saab
 Model: 9-5 Aero 4dr
 Year: 2018
@@ -3667,7 +3929,8 @@ Mpg(City): 21
 Mpg (Highway): 29
 Average Mpg: 25 }
 , 
-Bil 339 {
+Bil 339
+Garage: 0 {
 Make: Saab
 Model: 9-3 Arc convertible 2dr
 Year: 2019
@@ -3681,7 +3944,8 @@ Mpg(City): 21
 Mpg (Highway): 29
 Average Mpg: 25 }
 , 
-Bil 340 {
+Bil 340
+Garage: 0 {
 Make: Saab
 Model: 9-3 Aero convertible 2dr
 Year: 2020
@@ -3695,7 +3959,8 @@ Mpg(City): 21
 Mpg (Highway): 30
 Average Mpg: 25 }
 , 
-Bil 341 {
+Bil 341
+Garage: 0 {
 Make: Saab
 Model: 9-5 Aero
 Year: 2018
@@ -3709,7 +3974,8 @@ Mpg(City): 19
 Mpg (Highway): 29
 Average Mpg: 24 }
 , 
-Bil 342 {
+Bil 342
+Garage: 0 {
 Make: Saturn
 Model: VUE
 Year: 2011
@@ -3723,7 +3989,8 @@ Mpg(City): 21
 Mpg (Highway): 26
 Average Mpg: 23 }
 , 
-Bil 343 {
+Bil 343
+Garage: 0 {
 Make: Saturn
 Model: Ion1 4dr
 Year: 2012
@@ -3737,7 +4004,8 @@ Mpg(City): 26
 Mpg (Highway): 35
 Average Mpg: 30 }
 , 
-Bil 344 {
+Bil 344
+Garage: 0 {
 Make: Saturn
 Model: lon2 4dr
 Year: 2013
@@ -3751,7 +4019,8 @@ Mpg(City): 26
 Mpg (Highway): 35
 Average Mpg: 30 }
 , 
-Bil 345 {
+Bil 345
+Garage: 0 {
 Make: Saturn
 Model: lon3 4dr
 Year: 2014
@@ -3765,7 +4034,8 @@ Mpg(City): 26
 Mpg (Highway): 35
 Average Mpg: 30 }
 , 
-Bil 346 {
+Bil 346
+Garage: 0 {
 Make: Saturn
 Model: lon2 quad coupe 2dr
 Year: 2015
@@ -3779,7 +4049,8 @@ Mpg(City): 26
 Mpg (Highway): 35
 Average Mpg: 30 }
 , 
-Bil 347 {
+Bil 347
+Garage: 0 {
 Make: Saturn
 Model: lon3 quad coupe 2dr
 Year: 2016
@@ -3793,7 +4064,8 @@ Mpg(City): 26
 Mpg (Highway): 35
 Average Mpg: 30 }
 , 
-Bil 348 {
+Bil 348
+Garage: 0 {
 Make: Saturn
 Model: L300-2 4dr
 Year: 2017
@@ -3807,7 +4079,8 @@ Mpg(City): 20
 Mpg (Highway): 28
 Average Mpg: 24 }
 , 
-Bil 349 {
+Bil 349
+Garage: 0 {
 Make: Saturn
 Model: L300 2
 Year: 2018
@@ -3821,7 +4094,8 @@ Mpg(City): 24
 Mpg (Highway): 34
 Average Mpg: 29 }
 , 
-Bil 350 {
+Bil 350
+Garage: 0 {
 Make: Scion
 Model: xA 4dr hatch
 Year: 2019
@@ -3835,7 +4109,8 @@ Mpg(City): 32
 Mpg (Highway): 38
 Average Mpg: 35 }
 , 
-Bil 351 {
+Bil 351
+Garage: 0 {
 Make: Scion
 Model: xB
 Year: 2020
@@ -3849,7 +4124,8 @@ Mpg(City): 31
 Mpg (Highway): 35
 Average Mpg: 33 }
 , 
-Bil 352 {
+Bil 352
+Garage: 0 {
 Make: Subaru
 Model: Impreza 2.5 RS 4dr
 Year: 2018
@@ -3863,7 +4139,8 @@ Mpg(City): 22
 Mpg (Highway): 28
 Average Mpg: 25 }
 , 
-Bil 353 {
+Bil 353
+Garage: 0 {
 Make: Subaru
 Model: Legacy L 4dr
 Year: 2011
@@ -3877,7 +4154,8 @@ Mpg(City): 21
 Mpg (Highway): 28
 Average Mpg: 24 }
 , 
-Bil 354 {
+Bil 354
+Garage: 0 {
 Make: Subaru
 Model: Legacy GT 4dr
 Year: 2012
@@ -3891,7 +4169,8 @@ Mpg(City): 21
 Mpg (Highway): 28
 Average Mpg: 24 }
 , 
-Bil 355 {
+Bil 355
+Garage: 0 {
 Make: Subaru
 Model: Outback Limited Sedan 4dr
 Year: 2013
@@ -3905,7 +4184,8 @@ Mpg(City): 20
 Mpg (Highway): 27
 Average Mpg: 23 }
 , 
-Bil 356 {
+Bil 356
+Garage: 0 {
 Make: Subaru
 Model: Outback H6 4dr
 Year: 2014
@@ -3919,7 +4199,8 @@ Mpg(City): 19
 Mpg (Highway): 26
 Average Mpg: 22 }
 , 
-Bil 357 {
+Bil 357
+Garage: 0 {
 Make: Subaru
 Model: Outback H-6 VDC 4dr
 Year: 2015
@@ -3933,7 +4214,8 @@ Mpg(City): 19
 Mpg (Highway): 26
 Average Mpg: 22 }
 , 
-Bil 358 {
+Bil 358
+Garage: 0 {
 Make: Subaru
 Model: Impreza WRX 4dr
 Year: 2016
@@ -3947,7 +4229,8 @@ Mpg(City): 20
 Mpg (Highway): 27
 Average Mpg: 23 }
 , 
-Bil 359 {
+Bil 359
+Garage: 0 {
 Make: Subaru
 Model: Impreza WRX STi 4dr
 Year: 2017
@@ -3961,7 +4244,8 @@ Mpg(City): 18
 Mpg (Highway): 24
 Average Mpg: 21 }
 , 
-Bil 360 {
+Bil 360
+Garage: 0 {
 Make: Subaru
 Model: Baja
 Year: 2018
@@ -3975,7 +4259,8 @@ Mpg(City): 21
 Mpg (Highway): 28
 Average Mpg: 24 }
 , 
-Bil 361 {
+Bil 361
+Garage: 0 {
 Make: Subaru
 Model: Forester X
 Year: 2019
@@ -3989,7 +4274,8 @@ Mpg(City): 21
 Mpg (Highway): 28
 Average Mpg: 24 }
 , 
-Bil 362 {
+Bil 362
+Garage: 0 {
 Make: Subaru
 Model: Outback
 Year: 2020
@@ -4003,7 +4289,8 @@ Mpg(City): 21
 Mpg (Highway): 28
 Average Mpg: 24 }
 , 
-Bil 363 {
+Bil 363
+Garage: 0 {
 Make: Suzuki
 Model: XL-7 EX
 Year: 2018
@@ -4017,7 +4304,8 @@ Mpg(City): 18
 Mpg (Highway): 22
 Average Mpg: 20 }
 , 
-Bil 364 {
+Bil 364
+Garage: 0 {
 Make: Suzuki
 Model: Vitara LX
 Year: 2011
@@ -4031,7 +4319,8 @@ Mpg(City): 19
 Mpg (Highway): 22
 Average Mpg: 20 }
 , 
-Bil 365 {
+Bil 365
+Garage: 0 {
 Make: Suzuki
 Model: Aeno S 4dr
 Year: 2012
@@ -4045,7 +4334,8 @@ Mpg(City): 25
 Mpg (Highway): 31
 Average Mpg: 28 }
 , 
-Bil 366 {
+Bil 366
+Garage: 0 {
 Make: Suzuki
 Model: Aerio LX 4dr
 Year: 2013
@@ -4059,7 +4349,8 @@ Mpg(City): 25
 Mpg (Highway): 31
 Average Mpg: 28 }
 , 
-Bil 367 {
+Bil 367
+Garage: 0 {
 Make: Suzuki
 Model: Forenza S 4dr
 Year: 2014
@@ -4073,7 +4364,8 @@ Mpg(City): 24
 Mpg (Highway): 31
 Average Mpg: 27 }
 , 
-Bil 368 {
+Bil 368
+Garage: 0 {
 Make: Suzuki
 Model: Forenza EX 4dr
 Year: 2015
@@ -4087,7 +4379,8 @@ Mpg(City): 22
 Mpg (Highway): 30
 Average Mpg: 26 }
 , 
-Bil 369 {
+Bil 369
+Garage: 0 {
 Make: Suzuki
 Model: Verona LX 4dr
 Year: 2016
@@ -4101,7 +4394,8 @@ Mpg(City): 20
 Mpg (Highway): 27
 Average Mpg: 23 }
 , 
-Bil 370 {
+Bil 370
+Garage: 0 {
 Make: Suzuki
 Model: Aerio SX
 Year: 2017
@@ -4115,7 +4409,8 @@ Mpg(City): 24
 Mpg (Highway): 29
 Average Mpg: 26 }
 , 
-Bil 371 {
+Bil 371
+Garage: 0 {
 Make: Toyota
 Model: Prius 4dr (gas/electric)
 Year: 2018
@@ -4129,7 +4424,8 @@ Mpg(City): 59
 Mpg (Highway): 51
 Average Mpg: 55 }
 , 
-Bil 374 {
+Bil 374
+Garage: 0 {
 Make: Toyota
 Model: Highlander V6
 Year: 2018
@@ -4143,7 +4439,8 @@ Mpg(City): 18
 Mpg (Highway): 24
 Average Mpg: 21 }
 , 
-Bil 376 {
+Bil 376
+Garage: 0 {
 Make: Toyota
 Model: RAV4
 Year: 2012
@@ -4157,7 +4454,8 @@ Mpg(City): 22
 Mpg (Highway): 27
 Average Mpg: 24 }
 , 
-Bil 377 {
+Bil 377
+Garage: 0 {
 Make: Toyota
 Model: Corolla CE 4dr
 Year: 2013
@@ -4171,7 +4469,8 @@ Mpg(City): 32
 Mpg (Highway): 40
 Average Mpg: 36 }
 , 
-Bil 378 {
+Bil 378
+Garage: 0 {
 Make: Toyota
 Model: Corolla S 4dr
 Year: 2014
@@ -4185,7 +4484,8 @@ Mpg(City): 32
 Mpg (Highway): 40
 Average Mpg: 36 }
 , 
-Bil 379 {
+Bil 379
+Garage: 0 {
 Make: Toyota
 Model: Corolla LE 4dr
 Year: 2015
@@ -4199,7 +4499,8 @@ Mpg(City): 32
 Mpg (Highway): 40
 Average Mpg: 36 }
 , 
-Bil 380 {
+Bil 380
+Garage: 0 {
 Make: Toyota
 Model: Echo 2dr manual
 Year: 2016
@@ -4213,7 +4514,8 @@ Mpg(City): 35
 Mpg (Highway): 43
 Average Mpg: 39 }
 , 
-Bil 381 {
+Bil 381
+Garage: 0 {
 Make: Toyota
 Model: Echo 2dr auto
 Year: 2017
@@ -4227,7 +4529,8 @@ Mpg(City): 33
 Mpg (Highway): 39
 Average Mpg: 36 }
 , 
-Bil 382 {
+Bil 382
+Garage: 0 {
 Make: Toyota
 Model: Echo 4dr
 Year: 2018
@@ -4241,7 +4544,8 @@ Mpg(City): 35
 Mpg (Highway): 43
 Average Mpg: 39 }
 , 
-Bil 383 {
+Bil 383
+Garage: 0 {
 Make: Toyota
 Model: Camry LE 4dr
 Year: 2019
@@ -4255,7 +4559,8 @@ Mpg(City): 24
 Mpg (Highway): 33
 Average Mpg: 28 }
 , 
-Bil 384 {
+Bil 384
+Garage: 0 {
 Make: Toyota
 Model: Camry LE V6 4dr
 Year: 2020
@@ -4269,7 +4574,8 @@ Mpg(City): 21
 Mpg (Highway): 29
 Average Mpg: 25 }
 , 
-Bil 385 {
+Bil 385
+Garage: 0 {
 Make: Toyota
 Model: Camry Solara SE 2dr
 Year: 2018
@@ -4283,7 +4589,8 @@ Mpg(City): 24
 Mpg (Highway): 33
 Average Mpg: 28 }
 , 
-Bil 386 {
+Bil 386
+Garage: 0 {
 Make: Toyota
 Model: Camry Solara SE V6 2dr
 Year: 2011
@@ -4297,7 +4604,8 @@ Mpg(City): 20
 Mpg (Highway): 29
 Average Mpg: 24 }
 , 
-Bil 387 {
+Bil 387
+Garage: 0 {
 Make: Toyota
 Model: Avalon XL 4dr
 Year: 2012
@@ -4311,7 +4619,8 @@ Mpg(City): 21
 Mpg (Highway): 29
 Average Mpg: 25 }
 , 
-Bil 388 {
+Bil 388
+Garage: 0 {
 Make: Toyota
 Model: Camry XLE V6 4dr
 Year: 2013
@@ -4325,7 +4634,8 @@ Mpg(City): 21
 Mpg (Highway): 29
 Average Mpg: 25 }
 , 
-Bil 389 {
+Bil 389
+Garage: 0 {
 Make: Toyota
 Model: Camry Solara SLE V6 2dr
 Year: 2014
@@ -4339,7 +4649,8 @@ Mpg(City): 20
 Mpg (Highway): 29
 Average Mpg: 24 }
 , 
-Bil 390 {
+Bil 390
+Garage: 0 {
 Make: Toyota
 Model: Avalon XLS 4dr
 Year: 2015
@@ -4353,7 +4664,8 @@ Mpg(City): 21
 Mpg (Highway): 29
 Average Mpg: 25 }
 , 
-Bil 391 {
+Bil 391
+Garage: 0 {
 Make: Toyota
 Model: Sienna CE
 Year: 2016
@@ -4367,7 +4679,8 @@ Mpg(City): 19
 Mpg (Highway): 27
 Average Mpg: 23 }
 , 
-Bil 392 {
+Bil 392
+Garage: 0 {
 Make: Toyota
 Model: Sienna XLE Limited
 Year: 2017
@@ -4381,7 +4694,8 @@ Mpg(City): 19
 Mpg (Highway): 27
 Average Mpg: 23 }
 , 
-Bil 393 {
+Bil 393
+Garage: 0 {
 Make: Toyota
 Model: Celica GT-S 2dr
 Year: 2018
@@ -4395,7 +4709,8 @@ Mpg(City): 24
 Mpg (Highway): 33
 Average Mpg: 28 }
 , 
-Bil 394 {
+Bil 394
+Garage: 0 {
 Make: Toyota
 Model: MR2 Spyder convertible 2dr
 Year: 2019
@@ -4409,7 +4724,8 @@ Mpg(City): 26
 Mpg (Highway): 32
 Average Mpg: 29 }
 , 
-Bil 395 {
+Bil 395
+Garage: 0 {
 Make: Toyota
 Model: Tacoma
 Year: 2020
@@ -4423,7 +4739,8 @@ Mpg(City): 22
 Mpg (Highway): 27
 Average Mpg: 24 }
 , 
-Bil 398 {
+Bil 398
+Garage: 0 {
 Make: Toyota
 Model: Matrix XR
 Year: 2012
@@ -4437,7 +4754,8 @@ Mpg(City): 29
 Mpg (Highway): 36
 Average Mpg: 32 }
 , 
-Bil 400 {
+Bil 400
+Garage: 0 {
 Make: Volkswagen
 Model: Golf GLS 4dr
 Year: 2014
@@ -4451,7 +4769,8 @@ Mpg(City): 24
 Mpg (Highway): 31
 Average Mpg: 27 }
 , 
-Bil 401 {
+Bil 401
+Garage: 0 {
 Make: Volkswagen
 Model: GTI 1.8T 2dr hatch
 Year: 2015
@@ -4465,7 +4784,8 @@ Mpg(City): 24
 Mpg (Highway): 31
 Average Mpg: 27 }
 , 
-Bil 402 {
+Bil 402
+Garage: 0 {
 Make: Volkswagen
 Model: Jetta GLS TDI 4dr
 Year: 2016
@@ -4479,7 +4799,8 @@ Mpg(City): 38
 Mpg (Highway): 46
 Average Mpg: 42 }
 , 
-Bil 403 {
+Bil 403
+Garage: 0 {
 Make: Volkswagen
 Model: New Beetle GLS 1.8T 2dr
 Year: 2017
@@ -4493,7 +4814,8 @@ Mpg(City): 24
 Mpg (Highway): 31
 Average Mpg: 27 }
 , 
-Bil 404 {
+Bil 404
+Garage: 0 {
 Make: Volkswagen
 Model: Jetta GLI VR6 4dr
 Year: 2018
@@ -4507,7 +4829,8 @@ Mpg(City): 21
 Mpg (Highway): 30
 Average Mpg: 25 }
 , 
-Bil 405 {
+Bil 405
+Garage: 0 {
 Make: Volkswagen
 Model: New Beetle GLS convertible 2dr
 Year: 2019
@@ -4521,7 +4844,8 @@ Mpg(City): 24
 Mpg (Highway): 30
 Average Mpg: 27 }
 , 
-Bil 406 {
+Bil 406
+Garage: 0 {
 Make: Volkswagen
 Model: Passat GLS 4dr
 Year: 2020
@@ -4535,7 +4859,8 @@ Mpg(City): 22
 Mpg (Highway): 31
 Average Mpg: 26 }
 , 
-Bil 407 {
+Bil 407
+Garage: 0 {
 Make: Volkswagen
 Model: Passat GLX V6 4MOTION 4dr
 Year: 2018
@@ -4549,7 +4874,8 @@ Mpg(City): 19
 Mpg (Highway): 26
 Average Mpg: 22 }
 , 
-Bil 408 {
+Bil 408
+Garage: 0 {
 Make: Volkswagen
 Model: Passat W8 4MOTION 4dr
 Year: 2011
@@ -4563,7 +4889,8 @@ Mpg(City): 18
 Mpg (Highway): 25
 Average Mpg: 21 }
 , 
-Bil 411 {
+Bil 411
+Garage: 0 {
 Make: Volkswagen
 Model: Jetta GL
 Year: 2014
@@ -4577,7 +4904,8 @@ Mpg(City): 24
 Mpg (Highway): 30
 Average Mpg: 27 }
 , 
-Bil 412 {
+Bil 412
+Garage: 0 {
 Make: Volkswagen
 Model: Passat GLS 1.8T
 Year: 2015
@@ -4591,7 +4919,8 @@ Mpg(City): 22
 Mpg (Highway): 31
 Average Mpg: 26 }
 , 
-Bil 413 {
+Bil 413
+Garage: 0 {
 Make: Volkswagen
 Model: Passat W8
 Year: 2016
@@ -4605,7 +4934,8 @@ Mpg(City): 18
 Mpg (Highway): 25
 Average Mpg: 21 }
 , 
-Bil 415 {
+Bil 415
+Garage: 0 {
 Make: Volvo
 Model: S40 4dr
 Year: 2018
@@ -4619,7 +4949,8 @@ Mpg(City): 22
 Mpg (Highway): 29
 Average Mpg: 25 }
 , 
-Bil 416 {
+Bil 416
+Garage: 0 {
 Make: Volvo
 Model: S60 2.5 4dr
 Year: 2019
@@ -4633,7 +4964,8 @@ Mpg(City): 20
 Mpg (Highway): 27
 Average Mpg: 23 }
 , 
-Bil 417 {
+Bil 417
+Garage: 0 {
 Make: Volvo
 Model: S60 T5 4dr
 Year: 2020
@@ -4647,7 +4979,8 @@ Mpg(City): 20
 Mpg (Highway): 28
 Average Mpg: 24 }
 , 
-Bil 418 {
+Bil 418
+Garage: 0 {
 Make: Volvo
 Model: S60 R 4dr
 Year: 2018
@@ -4661,7 +4994,8 @@ Mpg(City): 18
 Mpg (Highway): 25
 Average Mpg: 21 }
 , 
-Bil 419 {
+Bil 419
+Garage: 0 {
 Make: Volvo
 Model: S80 2.9 4dr
 Year: 2011
@@ -4675,7 +5009,8 @@ Mpg(City): 20
 Mpg (Highway): 28
 Average Mpg: 24 }
 , 
-Bil 420 {
+Bil 420
+Garage: 0 {
 Make: Volvo
 Model: S80 2.5T 4dr
 Year: 2012
@@ -4689,7 +5024,8 @@ Mpg(City): 20
 Mpg (Highway): 27
 Average Mpg: 23 }
 , 
-Bil 421 {
+Bil 421
+Garage: 0 {
 Make: Volvo
 Model: C70 LPT convertible 2dr
 Year: 2013
@@ -4703,7 +5039,8 @@ Mpg(City): 21
 Mpg (Highway): 28
 Average Mpg: 24 }
 , 
-Bil 422 {
+Bil 422
+Garage: 0 {
 Make: Volvo
 Model: C70 HPT convertible 2dr
 Year: 2014
@@ -4717,7 +5054,8 @@ Mpg(City): 20
 Mpg (Highway): 26
 Average Mpg: 23 }
 , 
-Bil 423 {
+Bil 423
+Garage: 0 {
 Make: Volvo
 Model: S80 T6 4dr
 Year: 2015
@@ -4731,7 +5069,8 @@ Mpg(City): 19
 Mpg (Highway): 26
 Average Mpg: 22 }
 , 
-Bil 424 {
+Bil 424
+Garage: 0 {
 Make: Volvo
 Model: V40
 Year: 2016
@@ -4745,7 +5084,8 @@ Mpg(City): 22
 Mpg (Highway): 29
 Average Mpg: 25 }
 , 
-Bil 425 {
+Bil 425
+Garage: 0 {
 Make: Volvo
 Model: XC70
 Year: 2017

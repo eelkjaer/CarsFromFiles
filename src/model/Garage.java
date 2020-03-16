@@ -24,6 +24,6 @@ public class Garage {
 
     @Override
     public String toString(){
-        return "Garage: " + this.garageInstId + "( "+this.garageName+")\nCars: " + garage;
+        return "Garage " + this.garageInstId + " ("+this.garageName+")\nCars: " + garage;
     }
 }

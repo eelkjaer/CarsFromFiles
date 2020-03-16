@@ -4,7 +4,7 @@ public class Bil {
     //Obs;Make;Model;Cylinders;Horsepower;MPG_City;MPG_Highway;Weight;Wheelbase;Year;Milage
     static int idCounter=0;
     int avgMpg;
-    int carid, carHp, carMpgCity, carMpgHighway, carCylinders, carDoors, carWheelbase, carYear;
+    int carid, carHp, carMpgCity, carMpgHighway, carCylinders, carDoors, carWheelbase, carYear, garageId;
     double carMilage, carWeight;
     String carMake, carModel;
 
@@ -44,6 +44,14 @@ public class Bil {
         }
     }
 
+    public int getGarageId() {
+        return garageId;
+    }
+
+    public void setGarageId(int garageId) {
+        this.garageId = garageId;
+    }
+
     public int getCarid() {
         return carid;
     }
@@ -66,6 +74,7 @@ public class Bil {
     @Override
     public String toString() {
         return "\nBil " + carid
+                + "\nGarage: " + garageId
                 + " {\nMake: " + carMake
                 + "\nModel: " + carModel
                 + "\nYear: " + carYear
