@@ -1,67 +1,1177 @@
 [
-Bil 0 {
-Make: Acura
-Model: MDX
-Horsepower: 265
-Mpg: 17 }
-, 
-Bil 1 {
-Make: Audi
-Model: A4 3.0 4dr
-Horsepower: 220
-Mpg: 20 }
-, 
-Bil 2 {
-Make: BMW
-Model: 530i 4dr
-Horsepower: 225
-Mpg: 20 }
-, 
-Bil 3 {
-Make: Buick
-Model: Rendezvous CX
-Horsepower: 185
-Mpg: 19 }
-, 
-Bil 4 {
-Make: Buick
-Model: Century Custom 4dr
-Horsepower: 175
-Mpg: 20 }
-, 
-Bil 5 {
-Make: Chevrolet
-Model: Aveo 4dr
-Horsepower: 103
-Mpg: 28 }
-, 
-Bil 6 {
-Make: Volkswagen
-Model: Jetta GLI VR6 4dr
-Horsepower: 200
-Mpg: 21 }
-, 
 Bil 7 {
-Make: Volkswagen
-Model: New Beetle GLS convertible 2dr
-Horsepower: 115
-Mpg: 24 }
+Make: Audi
+Model: A4 1.8T 4dr
+Car doors: 4
+Horsepower: 170
+Avg. Mpg: 26 }
 , 
 Bil 8 {
-Make: Volvo
-Model: S60 2.5 4dr
-Horsepower: 208
-Mpg: 20 }
+Make: Audi
+Model: A41.8T convertible 2dr
+Car doors: 2
+Horsepower: 170
+Avg. Mpg: 26 }
 , 
-Bil 9 {
-Make: Volvo
-Model: S60 T5 4dr
-Horsepower: 247
-Mpg: 20 }
+Bil 21 {
+Make: Audi
+Model: TT 1.8 convertible 2dr (coupe)
+Car doors: 2
+Horsepower: 180
+Avg. Mpg: 24 }
 , 
-Bil 10 {
+Bil 28 {
+Make: BMW
+Model: 325i 4dr
+Car doors: 4
+Horsepower: 184
+Avg. Mpg: 24 }
+, 
+Bil 29 {
+Make: BMW
+Model: 325Ci 2dr
+Car doors: 2
+Horsepower: 184
+Avg. Mpg: 24 }
+, 
+Bil 30 {
+Make: BMW
+Model: 325Ci convertible 2dr
+Car doors: 2
+Horsepower: 184
+Avg. Mpg: 23 }
+, 
+Bil 31 {
+Make: BMW
+Model: 325xi 4dr
+Car doors: 4
+Horsepower: 184
+Avg. Mpg: 23 }
+, 
+Bil 35 {
+Make: BMW
+Model: 525i 4dr
+Car doors: 4
+Horsepower: 184
+Avg. Mpg: 23 }
+, 
+Bil 43 {
+Make: BMW
+Model: Z4 convertible 2.5i 2dr
+Car doors: 2
+Horsepower: 184
+Avg. Mpg: 24 }
+, 
+Bil 45 {
+Make: BMW
+Model: 325xi Sport
+Car doors: 0
+Horsepower: 184
+Avg. Mpg: 22 }
+, 
+Bil 47 {
+Make: Buick
+Model: Rendezvous CX
+Car doors: 0
+Horsepower: 185
+Avg. Mpg: 22 }
+, 
+Bil 48 {
+Make: Buick
+Model: Century Custom 4dr
+Car doors: 4
+Horsepower: 175
+Avg. Mpg: 25 }
+, 
+Bil 66 {
+Make: Chevrolet
+Model: Tracker
+Car doors: 0
+Horsepower: 165
+Avg. Mpg: 20 }
+, 
+Bil 67 {
+Make: Chevrolet
+Model: Aveo 4dr
+Car doors: 4
+Horsepower: 103
+Avg. Mpg: 31 }
+, 
+Bil 68 {
+Make: Chevrolet
+Model: Aveo LS 4dr hatch
+Car doors: 4
+Horsepower: 103
+Avg. Mpg: 31 }
+, 
+Bil 69 {
+Make: Chevrolet
+Model: Cavalier 2dr
+Car doors: 2
+Horsepower: 140
+Avg. Mpg: 31 }
+, 
+Bil 70 {
+Make: Chevrolet
+Model: Cavalier 4dr
+Car doors: 4
+Horsepower: 140
+Avg. Mpg: 31 }
+, 
+Bil 71 {
+Make: Chevrolet
+Model: Cavalier LS 2dr
+Car doors: 2
+Horsepower: 140
+Avg. Mpg: 31 }
+, 
+Bil 72 {
+Make: Chevrolet
+Model: Impala 4dr
+Car doors: 4
+Horsepower: 180
+Avg. Mpg: 26 }
+, 
+Bil 73 {
+Make: Chevrolet
+Model: Malibu 4dr
+Car doors: 4
+Horsepower: 145
+Avg. Mpg: 29 }
+, 
+Bil 75 {
+Make: Chevrolet
+Model: Monte Carlo LS 2dr
+Car doors: 2
+Horsepower: 180
+Avg. Mpg: 26 }
+, 
+Bil 81 {
+Make: Chevrolet
+Model: Venture LS
+Car doors: 0
+Horsepower: 185
+Avg. Mpg: 22 }
+, 
+Bil 85 {
+Make: Chevrolet
+Model: Colorado Z85
+Car doors: 0
+Horsepower: 175
+Avg. Mpg: 20 }
+, 
+Bil 90 {
+Make: Chrysler
+Model: PT Cruiser 4dr
+Car doors: 4
+Horsepower: 150
+Avg. Mpg: 25 }
+, 
+Bil 91 {
+Make: Chrysler
+Model: PT Cruiser Limited 4dr
+Car doors: 4
+Horsepower: 150
+Avg. Mpg: 25 }
+, 
+Bil 92 {
+Make: Chrysler
+Model: Sebring 4dr
+Car doors: 4
+Horsepower: 150
+Avg. Mpg: 26 }
+, 
+Bil 98 {
+Make: Chrysler
+Model: Sebring convertible 2dr
+Car doors: 2
+Horsepower: 150
+Avg. Mpg: 26 }
+, 
+Bil 101 {
+Make: Chrysler
+Model: Town and Country LX
+Car doors: 0
+Horsepower: 180
+Avg. Mpg: 22 }
+, 
+Bil 106 {
+Make: Dodge
+Model: Neon SE 4dr
+Car doors: 4
+Horsepower: 132
+Avg. Mpg: 32 }
+, 
+Bil 107 {
+Make: Dodge
+Model: Neon SXT 4dr
+Car doors: 4
+Horsepower: 132
+Avg. Mpg: 32 }
+, 
+Bil 109 {
+Make: Dodge
+Model: Stratus SXT 4dr
+Car doors: 4
+Horsepower: 150
+Avg. Mpg: 24 }
+, 
+Bil 110 {
+Make: Dodge
+Model: Stratus SE 4dr
+Car doors: 4
+Horsepower: 150
+Avg. Mpg: 24 }
+, 
+Bil 112 {
+Make: Dodge
+Model: Caravan SE
+Car doors: 0
+Horsepower: 150
+Avg. Mpg: 23 }
+, 
+Bil 122 {
+Make: Ford
+Model: Focus ZX3 2dr hatch
+Car doors: 2
+Horsepower: 130
+Avg. Mpg: 29 }
+, 
+Bil 123 {
+Make: Ford
+Model: Focus LX 4dr
+Car doors: 4
+Horsepower: 110
+Avg. Mpg: 31 }
+, 
+Bil 124 {
+Make: Ford
+Model: Focus SE 4dr
+Car doors: 4
+Horsepower: 130
+Avg. Mpg: 29 }
+, 
+Bil 125 {
+Make: Ford
+Model: Focus ZX5 5dr
+Car doors: 0
+Horsepower: 130
+Avg. Mpg: 29 }
+, 
+Bil 126 {
+Make: Ford
+Model: Focus SVT 2dr
+Car doors: 2
+Horsepower: 170
+Avg. Mpg: 24 }
+, 
+Bil 127 {
+Make: Ford
+Model: Taurus LX 4dr
+Car doors: 4
+Horsepower: 155
+Avg. Mpg: 23 }
+, 
+Bil 132 {
+Make: Ford
+Model: Freestar SE
+Car doors: 0
+Horsepower: 193
+Avg. Mpg: 20 }
+, 
+Bil 133 {
+Make: Ford
+Model: Mustang 2dr (convertible)
+Car doors: 2
+Horsepower: 193
+Avg. Mpg: 24 }
+, 
+Bil 138 {
+Make: Ford
+Model: Ranger 2.3 XL Regular Cab
+Car doors: 0
+Horsepower: 143
+Avg. Mpg: 26 }
+, 
+Bil 139 {
+Make: Ford
+Model: Focus ZTW
+Car doors: 0
+Horsepower: 130
+Avg. Mpg: 29 }
+, 
+Bil 140 {
+Make: Ford
+Model: Taurus SE
+Car doors: 0
+Horsepower: 155
+Avg. Mpg: 22 }
+, 
+Bil 145 {
+Make: GMC
+Model: Canyon Z85 SL Regular Cab
+Car doors: 0
+Horsepower: 175
+Avg. Mpg: 21 }
+, 
+Bil 149 {
+Make: Honda
+Model: Civic Hybrid 4dr manual (gas/electric)
+Car doors: 4
+Horsepower: 93
+Avg. Mpg: 48 }
+, 
+Bil 150 {
+Make: Honda
+Model: Insight 2dr (gas/electric)
+Car doors: 2
+Horsepower: 73
+Avg. Mpg: 63 }
+, 
+Bil 152 {
+Make: Honda
+Model: CR-V LX
+Car doors: 0
+Horsepower: 160
+Avg. Mpg: 23 }
+, 
+Bil 153 {
+Make: Honda
+Model: Element LX
+Car doors: 0
+Horsepower: 160
+Avg. Mpg: 22 }
+, 
+Bil 154 {
+Make: Honda
+Model: Civic DX 2dr
+Car doors: 2
+Horsepower: 115
+Avg. Mpg: 35 }
+, 
+Bil 155 {
+Make: Honda
+Model: Civic HX 2dr
+Car doors: 2
+Horsepower: 117
+Avg. Mpg: 40 }
+, 
+Bil 156 {
+Make: Honda
+Model: Civic LX 4dr
+Car doors: 4
+Horsepower: 115
+Avg. Mpg: 35 }
+, 
+Bil 157 {
+Make: Honda
+Model: Accord LX 2dr
+Car doors: 2
+Horsepower: 160
+Avg. Mpg: 30 }
+, 
+Bil 158 {
+Make: Honda
+Model: Accord EX 2dr
+Car doors: 2
+Horsepower: 160
+Avg. Mpg: 30 }
+, 
+Bil 159 {
+Make: Honda
+Model: Civic EX 4dr
+Car doors: 4
+Horsepower: 127
+Avg. Mpg: 34 }
+, 
+Bil 160 {
+Make: Honda
+Model: Civic Si 2dr hatch
+Car doors: 2
+Horsepower: 160
+Avg. Mpg: 28 }
+, 
+Bil 167 {
+Make: Hyundai
+Model: Santa Fe GLS
+Car doors: 0
+Horsepower: 173
+Avg. Mpg: 23 }
+, 
+Bil 168 {
+Make: Hyundai
+Model: Accent 2dr hatch
+Car doors: 2
+Horsepower: 103
+Avg. Mpg: 31 }
+, 
+Bil 169 {
+Make: Hyundai
+Model: Accent GL 4dr
+Car doors: 4
+Horsepower: 103
+Avg. Mpg: 31 }
+, 
+Bil 170 {
+Make: Hyundai
+Model: Accent GT 2dr hatch
+Car doors: 2
+Horsepower: 103
+Avg. Mpg: 31 }
+, 
+Bil 171 {
+Make: Hyundai
+Model: Elantra GLS 4dr
+Car doors: 4
+Horsepower: 138
+Avg. Mpg: 30 }
+, 
+Bil 172 {
+Make: Hyundai
+Model: Elantra GT 4dr
+Car doors: 4
+Horsepower: 138
+Avg. Mpg: 30 }
+, 
+Bil 173 {
+Make: Hyundai
+Model: Elantra GT 4dr hatch
+Car doors: 4
+Horsepower: 138
+Avg. Mpg: 30 }
+, 
+Bil 174 {
+Make: Hyundai
+Model: Sonata GLS 4dr
+Car doors: 4
+Horsepower: 170
+Avg. Mpg: 23 }
+, 
+Bil 175 {
+Make: Hyundai
+Model: Sonata LX 4dr
+Car doors: 4
+Horsepower: 170
+Avg. Mpg: 23 }
+, 
+Bil 176 {
+Make: Hyundai
+Model: XG350 4dr
+Car doors: 4
+Horsepower: 194
+Avg. Mpg: 21 }
+, 
+Bil 177 {
+Make: Hyundai
+Model: XG350 L 4dr
+Car doors: 4
+Horsepower: 194
+Avg. Mpg: 21 }
+, 
+Bil 178 {
+Make: Hyundai
+Model: Tiburon GT V6 2dr
+Car doors: 2
+Horsepower: 172
+Avg. Mpg: 22 }
+, 
+Bil 189 {
+Make: Jaguar
+Model: X-Type 2.5 4dr
+Car doors: 4
+Horsepower: 192
+Avg. Mpg: 22 }
+, 
+Bil 202 {
+Make: Jeep
+Model: Liberty Sport
+Car doors: 0
+Horsepower: 150
+Avg. Mpg: 22 }
+, 
+Bil 205 {
+Make: Kia
+Model: Optima LX 4dr
+Car doors: 4
+Horsepower: 138
+Avg. Mpg: 26 }
+, 
+Bil 206 {
+Make: Kia
+Model: Rio 4dr manual
+Car doors: 4
+Horsepower: 104
+Avg. Mpg: 29 }
+, 
+Bil 207 {
+Make: Kia
+Model: Rio 4dr auto
+Car doors: 4
+Horsepower: 104
+Avg. Mpg: 28 }
+, 
+Bil 208 {
+Make: Kia
+Model: Spectra 4dr
+Car doors: 4
+Horsepower: 124
+Avg. Mpg: 28 }
+, 
+Bil 209 {
+Make: Kia
+Model: Spectra GS 4dr hatch
+Car doors: 4
+Horsepower: 124
+Avg. Mpg: 28 }
+, 
+Bil 210 {
+Make: Kia
+Model: Spectra GSX 4dr hatch
+Car doors: 4
+Horsepower: 124
+Avg. Mpg: 28 }
+, 
+Bil 211 {
+Make: Kia
+Model: Optima LX V6 4dr
+Car doors: 4
+Horsepower: 170
+Avg. Mpg: 23 }
+, 
+Bil 212 {
+Make: Kia
+Model: Amanti 4dr
+Car doors: 4
+Horsepower: 195
+Avg. Mpg: 21 }
+, 
+Bil 214 {
+Make: Kia
+Model: Rio Cinco
+Car doors: 0
+Horsepower: 104
+Avg. Mpg: 29 }
+, 
+Bil 238 {
+Make: MINI
+Model: Cooper
+Car doors: 0
+Horsepower: 115
+Avg. Mpg: 32 }
+, 
+Bil 239 {
+Make: MINI
+Model: Cooper S
+Car doors: 0
+Horsepower: 163
+Avg. Mpg: 29 }
+, 
+Bil 240 {
+Make: Mazda
+Model: Tribute DX 2.0
+Car doors: 0
+Horsepower: 130
+Avg. Mpg: 23 }
+, 
+Bil 241 {
+Make: Mazda
+Model: Mazda3 i 4dr
+Car doors: 4
+Horsepower: 148
+Avg. Mpg: 30 }
+, 
+Bil 242 {
+Make: Mazda
+Model: Mazda3 s 4dr
+Car doors: 4
+Horsepower: 160
+Avg. Mpg: 28 }
+, 
+Bil 243 {
+Make: Mazda
+Model: Mazda6 i 4dr
+Car doors: 4
+Horsepower: 160
+Avg. Mpg: 28 }
+, 
+Bil 245 {
+Make: Mazda
+Model: MX-5 Miata convertible 2dr
+Car doors: 2
+Horsepower: 142
+Avg. Mpg: 25 }
+, 
+Bil 246 {
+Make: Mazda
+Model: MX-5 Miata LS convertible 2dr
+Car doors: 2
+Horsepower: 142
+Avg. Mpg: 25 }
+, 
+Bil 247 {
+Make: Mazda
+Model: RX-8 4dr automatic
+Car doors: 4
+Horsepower: 197
+Avg. Mpg: 21 }
+, 
+Bil 249 {
+Make: Mazda
+Model: B2300 SX Regular Cab
+Car doors: 0
+Horsepower: 143
+Avg. Mpg: 26 }
+, 
+Bil 253 {
+Make: Mercedes-Benz
+Model: C230 Sport 2dr
+Car doors: 2
+Horsepower: 189
+Avg. Mpg: 26 }
+, 
+Bil 255 {
+Make: Mercedes-Benz
+Model: C240 4dr
+Car doors: 4
+Horsepower: 168
+Avg. Mpg: 22 }
+, 
+Bil 256 {
+Make: Mercedes-Benz
+Model: C240 4dr
+Car doors: 4
+Horsepower: 168
+Avg. Mpg: 22 }
+, 
+Bil 272 {
+Make: Mercedes-Benz
+Model: SLK230 convertible 2dr
+Car doors: 2
+Horsepower: 192
+Avg. Mpg: 25 }
+, 
+Bil 274 {
+Make: Mercedes-Benz
+Model: C240
+Car doors: 0
+Horsepower: 168
+Avg. Mpg: 22 }
+, 
+Bil 278 {
+Make: Mercury
+Model: Sable GS 4dr
+Car doors: 4
+Horsepower: 155
+Avg. Mpg: 23 }
+, 
+Bil 285 {
+Make: Mercury
+Model: Sable GS
+Car doors: 0
+Horsepower: 155
+Avg. Mpg: 22 }
+, 
+Bil 288 {
+Make: Mitsubishi
+Model: Outlander LS
+Car doors: 0
+Horsepower: 160
+Avg. Mpg: 24 }
+, 
+Bil 289 {
+Make: Mitsubishi
+Model: Lancer ES 4dr
+Car doors: 4
+Horsepower: 120
+Avg. Mpg: 28 }
+, 
+Bil 290 {
+Make: Mitsubishi
+Model: Lancer LS 4dr
+Car doors: 4
+Horsepower: 120
+Avg. Mpg: 28 }
+, 
+Bil 291 {
+Make: Mitsubishi
+Model: Galant ES 2.4L 4dr
+Car doors: 4
+Horsepower: 160
+Avg. Mpg: 26 }
+, 
+Bil 292 {
+Make: Mitsubishi
+Model: Lancer OZ Rally 4dr auto
+Car doors: 4
+Horsepower: 120
+Avg. Mpg: 28 }
+, 
+Bil 298 {
+Make: Mitsubishi
+Model: Lancer Sportback LS
+Car doors: 0
+Horsepower: 160
+Avg. Mpg: 28 }
+, 
+Bil 302 {
+Make: Nissan
+Model: Sentra 1.8 4dr
+Car doors: 4
+Horsepower: 126
+Avg. Mpg: 31 }
+, 
+Bil 303 {
+Make: Nissan
+Model: Sentra 1.8 S 4dr
+Car doors: 4
+Horsepower: 126
+Avg. Mpg: 31 }
+, 
+Bil 304 {
+Make: Nissan
+Model: Altima S 4dr
+Car doors: 4
+Horsepower: 175
+Avg. Mpg: 23 }
+, 
+Bil 305 {
+Make: Nissan
+Model: Sentra SE-R 4dr
+Car doors: 4
+Horsepower: 165
+Avg. Mpg: 25 }
+, 
+Bil 316 {
+Make: Oldsmobile
+Model: Alero GX 2dr
+Car doors: 2
+Horsepower: 140
+Avg. Mpg: 28 }
+, 
+Bil 317 {
+Make: Oldsmobile
+Model: Alero GLS 2dr
+Car doors: 2
+Horsepower: 170
+Avg. Mpg: 24 }
+, 
+Bil 318 {
+Make: Oldsmobile
+Model: Silhouette GL
+Car doors: 0
+Horsepower: 185
+Avg. Mpg: 22 }
+, 
+Bil 319 {
+Make: Pontiac
+Model: Aztekt
+Car doors: 0
+Horsepower: 185
+Avg. Mpg: 22 }
+, 
+Bil 320 {
+Make: Pontiac
+Model: Sunfire 1SA 2dr
+Car doors: 2
+Horsepower: 140
+Avg. Mpg: 28 }
+, 
+Bil 321 {
+Make: Pontiac
+Model: Grand Am GT 2dr
+Car doors: 2
+Horsepower: 175
+Avg. Mpg: 24 }
+, 
+Bil 323 {
+Make: Pontiac
+Model: Sunfire 1SC 2dr
+Car doors: 2
+Horsepower: 140
+Avg. Mpg: 28 }
+, 
+Bil 326 {
+Make: Pontiac
+Model: Montana
+Car doors: 0
+Horsepower: 185
+Avg. Mpg: 22 }
+, 
+Bil 327 {
+Make: Pontiac
+Model: Montana EWB
+Car doors: 0
+Horsepower: 185
+Avg. Mpg: 21 }
+, 
+Bil 329 {
+Make: Pontiac
+Model: Vibe
+Car doors: 0
+Horsepower: 130
+Avg. Mpg: 32 }
+, 
+Bil 344 {
+Make: Saturn
+Model: VUE
+Car doors: 0
+Horsepower: 143
+Avg. Mpg: 23 }
+, 
+Bil 345 {
+Make: Saturn
+Model: Ion1 4dr
+Car doors: 4
+Horsepower: 140
+Avg. Mpg: 30 }
+, 
+Bil 346 {
+Make: Saturn
+Model: lon2 4dr
+Car doors: 4
+Horsepower: 140
+Avg. Mpg: 30 }
+, 
+Bil 347 {
+Make: Saturn
+Model: lon3 4dr
+Car doors: 4
+Horsepower: 140
+Avg. Mpg: 30 }
+, 
+Bil 348 {
+Make: Saturn
+Model: lon2 quad coupe 2dr
+Car doors: 2
+Horsepower: 140
+Avg. Mpg: 30 }
+, 
+Bil 349 {
+Make: Saturn
+Model: lon3 quad coupe 2dr
+Car doors: 2
+Horsepower: 140
+Avg. Mpg: 30 }
+, 
+Bil 350 {
+Make: Saturn
+Model: L300-2 4dr
+Car doors: 4
+Horsepower: 182
+Avg. Mpg: 24 }
+, 
+Bil 351 {
+Make: Saturn
+Model: L300 2
+Car doors: 0
+Horsepower: 140
+Avg. Mpg: 29 }
+, 
+Bil 352 {
+Make: Scion
+Model: xA 4dr hatch
+Car doors: 4
+Horsepower: 108
+Avg. Mpg: 35 }
+, 
+Bil 353 {
+Make: Scion
+Model: xB
+Car doors: 0
+Horsepower: 108
+Avg. Mpg: 33 }
+, 
+Bil 354 {
+Make: Subaru
+Model: Impreza 2.5 RS 4dr
+Car doors: 4
+Horsepower: 165
+Avg. Mpg: 25 }
+, 
+Bil 355 {
+Make: Subaru
+Model: Legacy L 4dr
+Car doors: 4
+Horsepower: 165
+Avg. Mpg: 24 }
+, 
+Bil 356 {
+Make: Subaru
+Model: Legacy GT 4dr
+Car doors: 4
+Horsepower: 165
+Avg. Mpg: 24 }
+, 
+Bil 357 {
+Make: Subaru
+Model: Outback Limited Sedan 4dr
+Car doors: 4
+Horsepower: 165
+Avg. Mpg: 23 }
+, 
+Bil 362 {
+Make: Subaru
+Model: Baja
+Car doors: 0
+Horsepower: 165
+Avg. Mpg: 24 }
+, 
+Bil 363 {
+Make: Subaru
+Model: Forester X
+Car doors: 0
+Horsepower: 165
+Avg. Mpg: 24 }
+, 
+Bil 364 {
+Make: Subaru
+Model: Outback
+Car doors: 0
+Horsepower: 165
+Avg. Mpg: 24 }
+, 
+Bil 365 {
+Make: Suzuki
+Model: XL-7 EX
+Car doors: 0
+Horsepower: 185
+Avg. Mpg: 20 }
+, 
+Bil 366 {
+Make: Suzuki
+Model: Vitara LX
+Car doors: 0
+Horsepower: 165
+Avg. Mpg: 20 }
+, 
+Bil 367 {
+Make: Suzuki
+Model: Aeno S 4dr
+Car doors: 4
+Horsepower: 155
+Avg. Mpg: 28 }
+, 
+Bil 368 {
+Make: Suzuki
+Model: Aerio LX 4dr
+Car doors: 4
+Horsepower: 155
+Avg. Mpg: 28 }
+, 
+Bil 369 {
+Make: Suzuki
+Model: Forenza S 4dr
+Car doors: 4
+Horsepower: 119
+Avg. Mpg: 27 }
+, 
+Bil 370 {
+Make: Suzuki
+Model: Forenza EX 4dr
+Car doors: 4
+Horsepower: 119
+Avg. Mpg: 26 }
+, 
+Bil 371 {
+Make: Suzuki
+Model: Verona LX 4dr
+Car doors: 4
+Horsepower: 155
+Avg. Mpg: 23 }
+, 
+Bil 372 {
+Make: Suzuki
+Model: Aerio SX
+Car doors: 0
+Horsepower: 155
+Avg. Mpg: 26 }
+, 
+Bil 373 {
+Make: Toyota
+Model: Prius 4dr (gas/electric)
+Car doors: 4
+Horsepower: 110
+Avg. Mpg: 55 }
+, 
+Bil 378 {
+Make: Toyota
+Model: RAV4
+Car doors: 0
+Horsepower: 161
+Avg. Mpg: 24 }
+, 
+Bil 379 {
+Make: Toyota
+Model: Corolla CE 4dr
+Car doors: 4
+Horsepower: 130
+Avg. Mpg: 36 }
+, 
+Bil 380 {
+Make: Toyota
+Model: Corolla S 4dr
+Car doors: 4
+Horsepower: 130
+Avg. Mpg: 36 }
+, 
+Bil 381 {
+Make: Toyota
+Model: Corolla LE 4dr
+Car doors: 4
+Horsepower: 130
+Avg. Mpg: 36 }
+, 
+Bil 382 {
+Make: Toyota
+Model: Echo 2dr manual
+Car doors: 2
+Horsepower: 108
+Avg. Mpg: 39 }
+, 
+Bil 383 {
+Make: Toyota
+Model: Echo 2dr auto
+Car doors: 2
+Horsepower: 108
+Avg. Mpg: 36 }
+, 
+Bil 384 {
+Make: Toyota
+Model: Echo 4dr
+Car doors: 4
+Horsepower: 108
+Avg. Mpg: 39 }
+, 
+Bil 385 {
+Make: Toyota
+Model: Camry LE 4dr
+Car doors: 4
+Horsepower: 157
+Avg. Mpg: 28 }
+, 
+Bil 387 {
+Make: Toyota
+Model: Camry Solara SE 2dr
+Car doors: 2
+Horsepower: 157
+Avg. Mpg: 28 }
+, 
+Bil 395 {
+Make: Toyota
+Model: Celica GT-S 2dr
+Car doors: 2
+Horsepower: 180
+Avg. Mpg: 28 }
+, 
+Bil 396 {
+Make: Toyota
+Model: MR2 Spyder convertible 2dr
+Car doors: 2
+Horsepower: 138
+Avg. Mpg: 29 }
+, 
+Bil 397 {
+Make: Toyota
+Model: Tacoma
+Car doors: 0
+Horsepower: 142
+Avg. Mpg: 24 }
+, 
+Bil 400 {
+Make: Toyota
+Model: Matrix XR
+Car doors: 0
+Horsepower: 130
+Avg. Mpg: 32 }
+, 
+Bil 402 {
+Make: Volkswagen
+Model: Golf GLS 4dr
+Car doors: 4
+Horsepower: 115
+Avg. Mpg: 27 }
+, 
+Bil 403 {
+Make: Volkswagen
+Model: GTI 1.8T 2dr hatch
+Car doors: 2
+Horsepower: 180
+Avg. Mpg: 27 }
+, 
+Bil 404 {
+Make: Volkswagen
+Model: Jetta GLS TDI 4dr
+Car doors: 4
+Horsepower: 100
+Avg. Mpg: 42 }
+, 
+Bil 405 {
+Make: Volkswagen
+Model: New Beetle GLS 1.8T 2dr
+Car doors: 2
+Horsepower: 150
+Avg. Mpg: 27 }
+, 
+Bil 407 {
+Make: Volkswagen
+Model: New Beetle GLS convertible 2dr
+Car doors: 2
+Horsepower: 115
+Avg. Mpg: 27 }
+, 
+Bil 408 {
+Make: Volkswagen
+Model: Passat GLS 4dr
+Car doors: 4
+Horsepower: 170
+Avg. Mpg: 26 }
+, 
+Bil 409 {
+Make: Volkswagen
+Model: Passat GLX V6 4MOTION 4dr
+Car doors: 4
+Horsepower: 190
+Avg. Mpg: 22 }
+, 
+Bil 413 {
+Make: Volkswagen
+Model: Jetta GL
+Car doors: 0
+Horsepower: 115
+Avg. Mpg: 27 }
+, 
+Bil 414 {
+Make: Volkswagen
+Model: Passat GLS 1.8T
+Car doors: 0
+Horsepower: 170
+Avg. Mpg: 26 }
+, 
+Bil 417 {
 Make: Volvo
-Model: S60 R 4dr
-Horsepower: 300
-Mpg: 18 }
+Model: S40 4dr
+Car doors: 4
+Horsepower: 170
+Avg. Mpg: 25 }
+, 
+Bil 422 {
+Make: Volvo
+Model: S80 2.5T 4dr
+Car doors: 4
+Horsepower: 194
+Avg. Mpg: 23 }
+, 
+Bil 423 {
+Make: Volvo
+Model: C70 LPT convertible 2dr
+Car doors: 2
+Horsepower: 197
+Avg. Mpg: 24 }
+, 
+Bil 426 {
+Make: Volvo
+Model: V40
+Car doors: 0
+Horsepower: 170
+Avg. Mpg: 25 }
 ]

@@ -2,7 +2,7 @@ package model;
 
 public class Bil {
     static int idCounter=0;
-    int carid, carHp, carMpg;
+    int carid, carHp, carMpg, carDoors;
     String carMake, carModel;
 
     public Bil(String carMake, String carModel, int carHp, int carMpg) {
@@ -10,9 +10,20 @@ public class Bil {
         this.carModel = carModel;
         this.carHp = carHp;
         this.carMpg = carMpg;
+        this.carDoors = calcCarDoors(carModel);
         this.carid = idCounter;
         idCounter++;
 
+    }
+
+    private int calcCarDoors(String modelDesc){
+        if(modelDesc.contains("4dr")){
+            return 4;
+        } else if(modelDesc.contains("2dr")){
+            return 2;
+        } else {
+            return 0;
+        }
     }
 
     public int getCarid() {
@@ -35,6 +46,10 @@ public class Bil {
         return carModel;
     }
 
+    public int getCarDoors(){
+        return carDoors;
+    }
+
     @Override
     public boolean equals(Object o) {
         if (this == o) return true;
@@ -52,6 +67,6 @@ public class Bil {
 
     @Override
     public String toString() {
-        return "\nBil " + carid + " {\nMake: " + carMake + "\nModel: " + carModel + "\nHorsepower: " + carHp + "\nMpg: " + carMpg + " }\n";
+        return "\nBil " + carid + " {\nMake: " + carMake + "\nModel: " + carModel + "\nCar doors: "+ carDoors +"\nHorsepower: " + carHp + "\nAvg. Mpg: " + carMpg + " }\n";
     }
 }
