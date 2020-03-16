@@ -1,19 +1,37 @@
 package model;
 
 public class Bil {
+    //Obs;Make;Model;Cylinders;Horsepower;MPG_City;MPG_Highway;Weight;Wheelbase;Year;Milage
     static int idCounter=0;
-    int carid, carHp, carMpg, carDoors;
+    int avgMpg;
+    int carid, carHp, carMpgCity, carMpgHighway, carCylinders, carDoors, carWheelbase, carYear;
+    double carMilage, carWeight;
     String carMake, carModel;
 
-    public Bil(String carMake, String carModel, int carHp, int carMpg) {
+    public Bil(String carMake, String carModel, int carCylinders, int carHp, int carMpgCity, int carMpgHighway,
+                double carWeight, int carWheelbase,
+                int carYear, double carMilage) {
         this.carMake = carMake;
         this.carModel = carModel;
+        this.carCylinders = carCylinders;
         this.carHp = carHp;
-        this.carMpg = carMpg;
+        this.carMpgCity = carMpgCity;
+        this.carMpgHighway = carMpgHighway;
+        this.carWeight = carWeight;
+        this.carWheelbase = carWheelbase;
+        this.carYear = carYear;
+        this.carMilage = carMilage;
         this.carDoors = calcCarDoors(carModel);
         this.carid = idCounter;
+        this.avgMpg = avgMpg(carMpgCity, carMpgHighway);
         idCounter++;
 
+    }
+
+    private int avgMpg(double cityMpg, double highwayMpg){
+        double calcMpg = (highwayMpg+cityMpg) / 2;
+
+        return (int)calcMpg;
     }
 
     private int calcCarDoors(String modelDesc){
@@ -28,26 +46,6 @@ public class Bil {
 
     public int getCarid() {
         return carid;
-    }
-
-    public int getCarHp() {
-        return carHp;
-    }
-
-    public int getCarMpg() {
-        return carMpg;
-    }
-
-    public String getCarMake() {
-        return carMake;
-    }
-
-    public String getCarModel() {
-        return carModel;
-    }
-
-    public int getCarDoors(){
-        return carDoors;
     }
 
     @Override
@@ -67,6 +65,19 @@ public class Bil {
 
     @Override
     public String toString() {
-        return "\nBil " + carid + " {\nMake: " + carMake + "\nModel: " + carModel + "\nCar doors: "+ carDoors +"\nHorsepower: " + carHp + "\nAvg. Mpg: " + carMpg + " }\n";
+        return "\nBil " + carid
+                + " {\nMake: " + carMake
+                + "\nModel: " + carModel
+                + "\nYear: " + carYear
+                + "\nMilage: " + carMilage
+                + "\nCar doors: "+ carDoors
+                + "\nCylinders: " + carCylinders
+                +"\nHorsepower: " + carHp
+                + "\nWeight: " + carWeight
+                + "\nWheelbase: " + carWheelbase
+                + "\nMpg(City): " + carMpgCity
+                + "\nMpg (Highway): " + carMpgHighway
+                + "\nAverage Mpg: " + avgMpg
+                + " }\n";
     }
 }

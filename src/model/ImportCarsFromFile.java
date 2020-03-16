@@ -17,12 +17,12 @@ public class ImportCarsFromFile {
                 String line = file.nextLine();
                 String[] lineArr = line.split(";");
                 try {
-                    double calcMpg = Double.parseDouble(lineArr[6]) + Double.parseDouble(lineArr[5]);
-                    calcMpg = calcMpg / 2;
-                    int mpg = (int)calcMpg;
 
-                    Bil tmpBil = new Bil(lineArr[1],lineArr[2],Integer.parseInt(lineArr[4]),mpg);
+                    Bil tmpBil = new Bil(lineArr[1], lineArr[2], Integer.parseInt(lineArr[3]), Integer.parseInt(lineArr[4]), Integer.parseInt(lineArr[5]),
+                            Integer.parseInt(lineArr[6]), Double.parseDouble(lineArr[7]), Integer.parseInt(lineArr[8]), Integer.parseInt(lineArr[9]),
+                            Double.parseDouble(lineArr[10]));
                     garage.addCarToGarage(tmpBil);
+
                     numberofCars++;
                 } catch (Exception e){
                     System.out.println("ERROR: " + e.toString());

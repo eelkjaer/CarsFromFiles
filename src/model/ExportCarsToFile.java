@@ -21,7 +21,7 @@ public class ExportCarsToFile {
             content += tmpArray.toString();
         } else if (filter==2){
             for(Bil b:garage.garage){
-                if(b.carMpg >= 20){
+                if(b.avgMpg >= 20){
                     tmpArray.add(b);
                     numbersExported++;
                 }
@@ -29,7 +29,7 @@ public class ExportCarsToFile {
             content += tmpArray.toString();
         } else if (filter==3){
             for(Bil b:garage.garage){
-                if(b.carMpg >= 20 && b.carHp<200){
+                if(b.avgMpg >= 20 && b.carHp<200){
                     tmpArray.add(b);
                     numbersExported++;
                 }
