@@ -2,11 +2,12 @@ package model;
 
 public class Bil {
     //Obs;Make;Model;Cylinders;Horsepower;MPG_City;MPG_Highway;Weight;Wheelbase;Year;Milage
-    static int idCounter=0;
-    int avgMpg;
-    int carid, carHp, carMpgCity, carMpgHighway, carCylinders, carDoors, carWheelbase, carYear, garageId;
-    double carMilage, carWeight;
-    String carMake, carModel;
+    //Skipper headeren "Obs" i import.
+    private static int idCounter=0;
+    private int avgMpg;
+    private int carid, carHp, carMpgCity, carMpgHighway, carCylinders, carDoors, carWheelbase, carYear, garageId;
+    private double carMilage, carWeight;
+    private String carMake, carModel;
 
     public Bil(String carMake, String carModel, int carCylinders, int carHp, int carMpgCity, int carMpgHighway,
                 double carWeight, int carWheelbase,
@@ -44,6 +45,42 @@ public class Bil {
         }
     }
 
+    public int getAvgMpg() {
+        return avgMpg;
+    }
+
+    public int getCarHp() {
+        return carHp;
+    }
+
+    public int getCarMpgCity() {
+        return carMpgCity;
+    }
+
+    public int getCarMpgHighway() {
+        return carMpgHighway;
+    }
+
+    public int getCarDoors() {
+        return carDoors;
+    }
+
+    public int getCarYear() {
+        return carYear;
+    }
+
+    public double getCarMilage() {
+        return carMilage;
+    }
+
+    public String getCarMake() {
+        return carMake;
+    }
+
+    public String getCarModel() {
+        return carModel;
+    }
+
     public int getGarageId() {
         return garageId;
     }
@@ -63,30 +100,30 @@ public class Bil {
 
         Bil bil = (Bil) o;
 
-        return carid == bil.carid;
+        return this.carid == bil.carid;
     }
 
     @Override
     public int hashCode() {
-        return carid;
+        return this.carid;
     }
 
     @Override
     public String toString() {
-        return "\nBil " + carid
-                + "\nGarage: " + garageId
-                + " {\nMake: " + carMake
-                + "\nModel: " + carModel
-                + "\nYear: " + carYear
-                + "\nMilage: " + carMilage
-                + "\nCar doors: "+ carDoors
-                + "\nCylinders: " + carCylinders
-                +"\nHorsepower: " + carHp
-                + "\nWeight: " + carWeight
-                + "\nWheelbase: " + carWheelbase
-                + "\nMpg(City): " + carMpgCity
-                + "\nMpg (Highway): " + carMpgHighway
-                + "\nAverage Mpg: " + avgMpg
+        return "\nBil " + this.carid
+                + "\nGarage: " + this.garageId
+                + " {\nMake: " + this.carMake
+                + "\nModel: " + this.carModel
+                + "\nYear: " + this.carYear
+                + "\nMilage: " + this.carMilage
+                + "\nCar doors: "+ this.carDoors
+                + "\nCylinders: " + this.carCylinders
+                +"\nHorsepower: " + this.carHp
+                + "\nWeight: " + this.carWeight
+                + "\nWheelbase: " + this.carWheelbase
+                + "\nMpg(City): " + this.carMpgCity
+                + "\nMpg (Highway): " + this.carMpgHighway
+                + "\nAverage Mpg: " + this.avgMpg
                 + " }\n";
     }
 }
